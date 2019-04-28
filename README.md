@@ -1,2 +1,2 @@
-# super-super-heroku-bot
+# pikadatabot
 Bot using heroku, 24/7!
