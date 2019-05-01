@@ -13,7 +13,7 @@ client.on('message', message => {
    	 if (msg.content == prefix+"ping") {
         msg.channel.sendMessage("!pong");
     	}
-	const pkmn = message.content.slice(1).split(/ +/);
+	var pkmn = message.content.slice(1).split(/ +/);
 	pkmn = pkmn.content.toString().toLowerCase();
 	for(var i=0;i<pokemon.length;i++){
 			if(pkmn == pokemon[i].Name.toLowerCase()){
