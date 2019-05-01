@@ -10,9 +10,6 @@ client.on('ready', () => {
 client.on('message', message => {
 	if (!message.content.startsWith("!") || message.author.bot) return;
 	
-   	 if (msg.content == prefix+"ping") {
-        msg.channel.sendMessage("!pong");
-    	}
 	var pkmn = message.content.slice(1).split(/ +/);
 	pkmn = pkmn.content.toString().toLowerCase();
 	for(var i=0;i<pokemon.length;i++){
