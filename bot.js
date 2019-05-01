@@ -6,9 +6,13 @@ var pokemon = require('./pokedex');
 client.on('ready', () => {
     console.log('I am ready!');
 });
+
 client.on('message', message => {
 	if (!message.content.startsWith("!") || message.author.bot) return;
 	
+   	 if (msg.content == prefix+"ping") {
+        msg.channel.sendMessage("!pong");
+    	}
 	const pkmn = message.content.slice(1).split(/ +/);
 	pkmn = pkmn.content.toString().toLowerCase();
 	for(var i=0;i<pokemon.length;i++){
@@ -24,7 +28,3 @@ client.on('message', message => {
 		}
 	}
 });
-
-
-// THIS  MUST  BE  THIS  WAY
-client.login(process.env.BOT_TOKEN);
