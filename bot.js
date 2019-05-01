@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const fs = require('fs');
-var pokemon = require('./pokedex');
+//var pokemon = require('./pokedex');
 
 client.on('ready', () => {
     console.log('I am ready!');
