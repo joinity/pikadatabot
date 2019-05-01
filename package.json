@@ -8,7 +8,7 @@
     "start": "node bot.js"
   },
   "dependencies": {
-    "discord.js": "github:hydrabolt/discord.js#indev",
+    "discord.js": "11.4.2",
     "request": "2.81.0"
   },
 "engines": {
