@@ -11,4 +11,7 @@
     "discord.js": "github:hydrabolt/discord.js#indev",
     "request": "2.81.0"
   }
+    "engines": {
+    "node": "6.1.0"
+  }
 }
