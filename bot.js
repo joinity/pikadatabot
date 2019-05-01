@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 const fs = require("fs");
 
-function findObjectByName(array, value) {
+global.findObj = function findObjectByName(array, value) {
     for (var i = 0; i < array.length; i++) {
         if (array[i][Name] === value) {
             return array[i];
@@ -18,7 +18,7 @@ client.on('message', message => {
 
 	const args = message.content.slice(1).split(/ +/);
 	const command = args.shift().toLowerCase();
-	var array = findObjectByName(pokedex,command);
+	var array = findObj(pokedex,command);
     	message.channel.send(array[2]);
 	// other commands...
 });
@@ -27,9 +27,7 @@ client.on('message', message => {
 client.login(process.env.BOT_TOKEN);
 
 
-
-
-var pokedex = [
+pokedex = [
  {
    "Name": "Charmander",
    "Type": "Fire",
