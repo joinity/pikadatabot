@@ -14,12 +14,7 @@ client.on('message', message => {
 	pkmn = pkmn.toString().toLowerCase();
 	for(var i=0;i<pokemon.length;i++){
 			if(pkmn == pokemon[i].Name.toLowerCase()){
-				var text = "__You selected__\n";
-				text += "**N° "+pokemon[i].Name+"** \n";
-				text += "Type: **"+pokemon[i].Type+"** \n";
-	 			text += "Level: **"+pokemon[i].Level+"** \n";
-				text += "Health: **"+pokemon[i].Health+"** \n";
-				text += "Damage: **"+pokemon[i].Damage+"**\n\n";
+				var text = pokemon[i].Name;
 				message.reply(text);
 			}
 		
