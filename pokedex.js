@@ -10940,3 +10940,4 @@ var pokedex = [
    "Commentaries": ""
  }
 ]
+module.exports = pokedex;
