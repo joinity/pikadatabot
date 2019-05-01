@@ -2,14 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 const fs = require("fs");
 var pokemon = require('./pokedex');
-global.findObj = function findObjectByName(array, value) {
-    for (var i = 0; i < array.length; i++) {
-        if (array[i][Name] === value) {
-            return array[i];
-        }
-    }
-    return null;
-}
+
 client.on('ready', () => {
     console.log('I am ready!');
 });
