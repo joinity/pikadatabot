@@ -18,5 +18,8 @@ client.on('message', message => {
 				message.reply(text);
 			}
 		
-}
+	}
+	
+});
+	
 client.login(process.env.BOT_TOKEN);
