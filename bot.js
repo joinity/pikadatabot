@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-
+const fs = require("fs");
 client.on('ready', () => {
     console.log('I am ready!');
 });
@@ -9,14 +9,15 @@ client.on('message', message => {
 
 	const args = message.content.slice(1).split(/ +/);
 	const command = args.shift().toLowerCase();
-    message.channel.send(command);
+	const array[] = findObjectByName(pokedex,command);
+    	message.channel.send(array(1));
 	// other commands...
 });
 
 // THIS  MUST  BE  THIS  WAY
 client.login(process.env.BOT_TOKEN);
 
-function findObjectByName(array, Name, value) {
+function findObjectByName(array, value) {
     for (var i = 0; i < array.length; i++) {
         if (array[i][Name] === value) {
             return array[i];
