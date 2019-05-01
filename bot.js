@@ -10,8 +10,9 @@ client.on('ready', () => {
 client.on('message', message => {
 	if (!message.content.startsWith("!") || message.author.bot) return;
 	
-	var pkmn = message.content.slice(1).split(/ +/);
-	pkmn = pkmn.toString().toLowerCase();
+	var pkmn = message.content.toString().toLowerCase();
+	pkmn = pkmn.substring(1);
+	message.reply("hi");
 	/*for(var i=0;i<pokemon.length;i++){
 			if(pkmn == pokemon[i].Name.toLowerCase()){
 				var text = pokemon[i].Name;
