@@ -11,7 +11,7 @@ client.on('message', message => {
 	if (!message.content.startsWith("!") || message.author.bot) return;
 	
 	var pkmn = message.content.slice(1).split(/ +/);
-	pkmn = pkmn.content.toString().toLowerCase();
+	pkmn = pkmn.toString().toLowerCase();
 	for(var i=0;i<pokemon.length;i++){
 			if(pkmn == pokemon[i].Name.toLowerCase()){
 				var text = "__You selected__\n";
