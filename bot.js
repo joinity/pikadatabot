@@ -7,15 +7,18 @@ client.on('ready', () => {
     console.log('I am ready!');
 });
 
-client.on('message', message => {
-	if (!message.content.startsWith("!") || message.author.bot) return;
-	
-	var pkmn = message.content.slice(1).split(/ +/);
+client.on('message', msg => {
+	if (!msg.content.startsWith("!") || msg.author.bot) return;
+	console.log(msg);
+	var pkmn = msg.content.slice(1).split(/ +/);
+	console.log(pkmn);
 	pkmn = pkmn.toString().toLowerCase();
+	console.log(pkmn);
 	for(var i=0;i<pokemon.length;i++){
 			if(pkmn == pokemon[i].Name.toLowerCase()){
+				console.log('I am here');
 				var text = pokemon[i].Name;
-				message.reply(text);
+				msg.reply(text);
 			}
 		
 	}
