@@ -22,7 +22,7 @@ client.on('message', message => {
 				text += "Type: **"+pokemon[i].Type+"** \n";
 	 			text += "Level: **"+pokemon[i].Level+"** \n";
 				text += "Health: **"+pokemon[i].Health+"** \n";
-				text += "Damage: **"+pokemon[i].Damage+**\n\n";
+				text += "Damage: **"+pokemon[i].Damage+"**\n\n";
 				message.reply(text);
 			}
 		}
