@@ -25,6 +25,6 @@ client.on('message', message => {
 				text += "Damage: **"+pokemon[i].Damage+"**\n\n";
 				message.reply(text);
 			}
-		}
+		
 	}
 });
