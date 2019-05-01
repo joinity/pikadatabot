@@ -12,11 +12,11 @@ client.on('message', message => {
 	
 	var pkmn = message.content.slice(1).split(/ +/);
 	pkmn = pkmn.toString().toLowerCase();
-	for(var i=0;i<pokemon.length;i++){
+	/*for(var i=0;i<pokemon.length;i++){
 			if(pkmn == pokemon[i].Name.toLowerCase()){
 				var text = pokemon[i].Name;
 				message.reply(text);
 			}
 		
-	}
+	}*/
 });
