@@ -1,4 +1,4 @@
-[
+var pokedex = [
  {
    "Name": "Charmander",
    "Type": "Fire",
