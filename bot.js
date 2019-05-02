@@ -17,13 +17,13 @@ client.on('message', msg => {
 			if(pkmn == pokemon[i].Name.toLowerCase()){
 				
 				const embed = new Discord.RichEmbed()
-     				.setAuthor(pokemon[i].Name)
+     				.setAuthor(pokemon[i].Name, "https://img.pokemondb.net/sprites/x-y/normal/"+ pkmn +".png" )
       				.setColor(0xFF0000)
       				.addField("Stats", "Level" + pokemon[i].Level)
 				.addField("\u200B","⧫ ATK: " + pokemon[i].Damage + "\r\n ⧫ HP: " + pokemon[i].Health + "\r\n ⧫ DEF: " + pokemon[i].Defense, true)
       				.addField("\u200B", "⧫ RANGE: " + pokemon[i].Range+ "\r\n ⧫ DPS: " + pokemon[i].DPS + "\r\n ⧫ MOVE SPEED: " + pokemon[i].MoveSpeed, true)
       				.addField("Skills", pokemon[i].Ability)
-      				.setImage("https://img.pokemondb.net/sprites/black-white/normal/"+ pkmn +".png");
+      				.setImage("https://img.pokemondb.net/sprites/x-y/normal/"+ pkmn +".png");
     				
 				msg.channel.send({embed});
 
