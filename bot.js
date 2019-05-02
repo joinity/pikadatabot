@@ -23,7 +23,6 @@ client.on('message', msg => {
 				.addField("\u200B","⧫ ATK: " + pokemon[i].Damage + "\r\n ⧫ HP: " + pokemon[i].Health + "\r\n ⧫ DEF: " + pokemon[i].Defense, true)
       				.addField("\u200B", "⧫ RANGE: " + pokemon[i].Range+ "\r\n ⧫ DPS: " + pokemon[i].DPS + "\r\n ⧫ MOVE SPEED: " + pokemon[i].MoveSpeed, true)
       				.addField("Skills", pokemon[i].Ability)
-      				.setImage("https://img.pokemondb.net/sprites/black-white/normal/"+ pkmn +".png")
     				.setThumbnail("https://img.pokemondb.net/sprites/black-white/anim/normal/"+ pkmn +".gif");
 				msg.author.send({embed});
 
