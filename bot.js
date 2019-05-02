@@ -16,7 +16,7 @@ client.on('message', msg => {
 			
 			if(pkmn == pokemon[i].Name.toLowerCase()){
 				const embed = new Discord.RichEmbed()
-     				.setAuthor(pokemon[i], "LVL" + pokemon[i].Level)
+     				.setAuthor(pokemon[i].Name, "LVL" + pokemon[i].Level)
       				.setColor(0xFF0000)
       				.addField("Stats", " ATK: " + pokemon[i].Damage + "\r\n ⧫ HP: " + pokemon[i].Health + "\r\n ⧫ DEF: " + pokemon[i].Defense, true)
       				.addField("\u200B", " RANGE: " + pokemon[i].Range+ "\r\n ⧫ DPS: " + pokemon[i].DPS + "\r\n ⧫ MOVE SPEED: " + pokemon[i].MoveSpeed, true)
