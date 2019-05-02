@@ -15,6 +15,7 @@ client.on('message', msg => {
 	for(var i=0;i<pokemon.length;i++){
 			
 			if(pkmn == pokemon[i].Name.toLowerCase()){
+				msg.channel.send("WIP");
 				const embed = new Discord.RichEmbed()
      				.setAuthor(pokemon[i].Name, "LVL" + pokemon[i].Level)
       				.setColor(0xFF0000)
