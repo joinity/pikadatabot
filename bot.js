@@ -16,7 +16,7 @@ client.on('message', msg => {
 		for(var i=0;i<pokemon.length;i++){
 
 				if(pkmn == pokemon[i].Name.toLowerCase()){
-					console.log(pokemon[i].Name.toLowerCase());
+					if(pokemon[i].Ability == "") { pokemon[i].Ability = "null";}
 					const embed = new Discord.RichEmbed()
 					.setAuthor(pokemon[i].Name, "https://img.pokemondb.net/sprites/black-white/normal/"+ pkmn +".png" )
 					.setColor(0xFF0000)
