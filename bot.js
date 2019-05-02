@@ -22,7 +22,7 @@ client.on('message', msg => {
       				.addField("Stats", "LVL" + pokemon[i].Level + " ATK: " + pokemon[i].Damage + "\r\n ⧫ HP: " + pokemon[i].Health + "\r\n ⧫ DEF: " + pokemon[i].Defense, true)
       				.addField("\u200B", " RANGE: " + pokemon[i].Range+ "\r\n ⧫ DPS: " + pokemon[i].DPS + "\r\n ⧫ MOVE SPEED: " + pokemon[i].MoveSpeed, true)
       				.addField("Skills", pokemon[i].Ability)
-      				.setImage("https://lh3.googleusercontent.com/rA0lKRGI_-bP-Jj4nkVc5lm6WJfO3nYlAz089otvQnLeevIoao1CTvaU0l0dqnnWIvLZTSOTaEwj6W04IZSRHQz3NYWiePtJnW3bANh54aI=w120", 2, 2)
+      				.setImage("https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.pokewiki.de%2Fimages%2Fthumb%2F6%2F6c%2FSugimori_025.png%2F250px-Sugimori_025.png&imgrefurl=https%3A%2F%2Fwww.pokewiki.de%2FPikachu&docid=IoMwWOt4siFKgM&tbnid=4I4v8PsJini_DM%3A&vet=10ahUKEwjTvpXv5PzhAhUOFRQKHT-mAM8QMwg_KAAwAA..i&w=250&h=234&bih=927&biw=958&q=pikachu&ved=0ahUKEwjTvpXv5PzhAhUOFRQKHT-mAM8QMwg_KAAwAA&iact=mrc&uact=8", 2, 2);
     				msg.channel.send(embed);
 
 			}
