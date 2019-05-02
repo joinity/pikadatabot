@@ -25,8 +25,10 @@ client.on('message', msg => {
       				.addField("Skills", pokemon[i].Ability)
       				.setImage("https://img.pokemondb.net/sprites/black-white/normal/"+ pkmn +".png")
     				.setThumbnail("https://img.pokemondb.net/sprites/black-white/anim/normal/"+ pkmn +".gif");
-				msg.channel.send({embed}).then(sentMessage => {
-    sentMessage.delete(10000);
+				msg.channel.send({embed}).then(msg => {
+    msg.delete(10000)
+  })
+  .catch(msg.channel.send("error");
 
 			}
 		
