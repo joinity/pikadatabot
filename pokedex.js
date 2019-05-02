@@ -4813,7 +4813,7 @@ var pokedex = [
    "Defense": 0,
    "Priority": "",
    "Low Priority": "Yes",
-   "Ability": "",
+   "Ability": "This Throws an error",
    "Cost": 1400,
    "TotalCost": 4155,
    "CatchRate": "None",
