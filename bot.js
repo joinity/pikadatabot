@@ -40,7 +40,7 @@ client.on('message', msg => {
 
 				if(pkmn == pokemon[i].Name.toLowerCase()){
 
-					const embed = new Discord.RichEmbed()
+
 					const embed = new Discord.RichEmbed()
 					.setAuthor(pokemon[i].Name, "https://img.pokemondb.net/sprites/black-white/normal/"+ pkmn +".png" )
 					.setColor(0xFF0000)
