@@ -15,8 +15,8 @@ client.on('message', msg => {
 	for(var i=0;i<pokemon.length;i++){
 			
 			if(pkmn == pokemon[i].Name.toLowerCase()){
-				msg.channel.send("WIP");
-				const embed = new Discord.RichEmbed()
+				
+				var embed = new Discord.RichEmbed()
 				.setAuthor("Author", "https://lh3.googleusercontent.com/rA0lKRGI_-bP-Jj4nkVc5lm6WJfO3nYlAz089otvQnLeevIoao1CTvaU0l0dqnnWIvLZTSOTaEwj6W04IZSRHQz3NYWiePtJnW3bANh54aI=w120")
       .setColor(0xFF0000)
       .addField("<:stats:545991150486421514> Stats", "⧫ ATK: " + "variable" + "\r\n ⧫ HP: " + "variable" + "\r\n ⧫ DEF: " + "variable", true)
