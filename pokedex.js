@@ -15,8 +15,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "52",
+   "TotalCost": 10,
+   "CatchRate": "52",
    "Commentaries": ""
  },
  {
@@ -35,8 +35,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "None",
    "Cost": 50,
-   "Total Cost": 60,
-   "Catch-Rate": "None",
+   "TotalCost": 60,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -55,8 +55,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Mirror Coat - Reflects 30% of incoming damage to the attacker\n",
    "Cost": 160,
-   "Total Cost": 220,
-   "Catch-Rate": "None",
+   "TotalCost": 220,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -75,8 +75,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Mirror Coat - Reflects 40% of incoming damage to the attacker\n",
    "Cost": 250,
-   "Total Cost": 470,
-   "Catch-Rate": "None",
+   "TotalCost": 470,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -95,8 +95,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Mirror Coat - Reflects 60% of incoming damage to the attacker\n\nTeleport - If enemy is near Alakazam, he has a 20% chance to teleport to a random place in the arena",
    "Cost": 400,
-   "Total Cost": 870,
-   "Catch-Rate": "None",
+   "TotalCost": 870,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -115,8 +115,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Mirror Coat - Reflects 80% of incoming damage to the attacker\n\nTeleport - If enemy is near Alakazam, he has a 20% chance to teleport to a random place in the arena",
    "Cost": 730,
-   "Total Cost": 1600,
-   "Catch-Rate": "None",
+   "TotalCost": 1600,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -135,8 +135,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Mirror Coat - Reflects 100% of incoming damage to the attacker\n\nTeleport - If enemy is near Alakazam, he has a 20% chance to teleport to a random place in the arena",
    "Cost": 920,
-   "Total Cost": 2520,
-   "Catch-Rate": "None",
+   "TotalCost": 2520,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -155,8 +155,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Mirror Coat - Reflects 120% of incoming damage to the attacker\n\nTeleport - If enemy is near Alakazam, he has a 20% chance to teleport to a random place in the arena",
    "Cost": 1400,
-   "Total Cost": 3920,
-   "Catch-Rate": "None",
+   "TotalCost": 3920,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -175,8 +175,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Double Team - Absol has a 30% chance to dodge attacks\n\nNight - Absol has 20% more attack speed while it is night",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "50",
+   "TotalCost": 10,
+   "CatchRate": "50",
    "Commentaries": ""
  },
  {
@@ -195,8 +195,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Double Team - Absol has a 30% chance to dodge attacks\n\nNight - Absol has 20% more attack speed while it is night",
    "Cost": 285,
-   "Total Cost": 295,
-   "Catch-Rate": "None",
+   "TotalCost": 295,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -215,8 +215,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Double Team - Absol has a 30% chance to dodge attacks\n\nNight - Absol has 20% more attack speed while it is night",
    "Cost": 570,
-   "Total Cost": 865,
-   "Catch-Rate": "None",
+   "TotalCost": 865,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -235,8 +235,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Double Team - Absol has a 30% chance to dodge attacks\n\nNight - Absol has 20% more attack speed while it is night",
    "Cost": 900,
-   "Total Cost": 1765,
-   "Catch-Rate": "None",
+   "TotalCost": 1765,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -255,8 +255,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Double Team - Absol has a 30% chance to dodge attacks\n\nNight - Absol has 20% more attack speed while it is night",
    "Cost": 1185,
-   "Total Cost": 2950,
-   "Catch-Rate": "None",
+   "TotalCost": 2950,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -275,8 +275,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Double Team - Absol has a 30% chance to dodge attacks\n\nNight - Absol has 20% more attack speed while it is night",
    "Cost": 1600,
-   "Total Cost": 4550,
-   "Catch-Rate": "None",
+   "TotalCost": 4550,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -295,8 +295,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Rock Head - \nAerodactyl is immune to negative effects such as auras, stuns, slowing down, poison.",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "45",
+   "TotalCost": 10,
+   "CatchRate": "45",
    "Commentaries": ""
  },
  {
@@ -315,8 +315,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Rock Head - \nAerodactyl is immune to negative effects such as auras, stuns, slowing down, poison.",
    "Cost": 390,
-   "Total Cost": 400,
-   "Catch-Rate": "None",
+   "TotalCost": 400,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -335,8 +335,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Rock Head - \nAerodactyl is immune to negative effects such as auras, stuns, slowing down, poison.",
    "Cost": 780,
-   "Total Cost": 1180,
-   "Catch-Rate": "None",
+   "TotalCost": 1180,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -355,8 +355,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Rock Head - \nAerodactyl is immune to negative effects such as auras, stuns, slowing down, poison.",
    "Cost": 1125,
-   "Total Cost": 2305,
-   "Catch-Rate": "None",
+   "TotalCost": 2305,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -375,8 +375,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Rock Head - \nAerodactyl is immune to negative effects such as auras, stuns, slowing down, poison.",
    "Cost": 1410,
-   "Total Cost": 3715,
-   "Catch-Rate": "None",
+   "TotalCost": 3715,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -395,8 +395,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Rock Head - \nAerodactyl is immune to negative effects such as auras, stuns, slowing down, poison.",
    "Cost": 1700,
-   "Total Cost": 5415,
-   "Catch-Rate": "None",
+   "TotalCost": 5415,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -415,8 +415,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "None",
    "Cost": 200,
-   "Total Cost": 200,
-   "Catch-Rate": "11",
+   "TotalCost": 200,
+   "CatchRate": "11",
    "Commentaries": ""
  },
  {
@@ -435,8 +435,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Blizzard - Reduces the Attack-Speed by 29% and Walk-Speed by 50% of enemy Pokemon nearby",
    "Cost": 940,
-   "Total Cost": 1140,
-   "Catch-Rate": "None",
+   "TotalCost": 1140,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -455,8 +455,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Blizzard - Reduces the Attack-Speed by 25% and Walk-Speed by 50% of enemy Pokemon nearby",
    "Cost": 1250,
-   "Total Cost": 2390,
-   "Catch-Rate": "None",
+   "TotalCost": 2390,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -475,8 +475,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Blizzard - Reduces the Attack-Speed by 34% and Walk-Speed by 50% of enemy Pokemon nearby",
    "Cost": 1800,
-   "Total Cost": 4190,
-   "Catch-Rate": "None",
+   "TotalCost": 4190,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -495,8 +495,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Blizzard - Reduces the Attack-Speed by 39% and Walk-Speed by 50% of enemy Pokemon nearby",
    "Cost": 2100,
-   "Total Cost": 6290,
-   "Catch-Rate": "None",
+   "TotalCost": 6290,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -515,8 +515,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "35",
+   "TotalCost": 10,
+   "CatchRate": "35",
    "Commentaries": ""
  },
  {
@@ -535,8 +535,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 160,
-   "Total Cost": 170,
-   "Catch-Rate": "None",
+   "TotalCost": 170,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -555,8 +555,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Multiscale - This pokemon has 50% damage reduction when it has 100% HP",
    "Cost": 300,
-   "Total Cost": 470,
-   "Catch-Rate": "None",
+   "TotalCost": 470,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -575,8 +575,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Multiscale - This pokemon has 50% damage reduction when it has 100% HP\n\nDragon Claw - 25% chances to deal doubled damages",
    "Cost": 730,
-   "Total Cost": 1200,
-   "Catch-Rate": "None",
+   "TotalCost": 1200,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -595,8 +595,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Multiscale - This pokemon has 50% damage reduction when it has 100% HP\n\nDragon Claw - 25% chances to deal doubled damages",
    "Cost": 1130,
-   "Total Cost": 2330,
-   "Catch-Rate": "None",
+   "TotalCost": 2330,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -615,8 +615,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Multiscale - This pokemon has 50% damage reduction when it has 100% HP\n\nDragon Claw - 25% chances to deal doubled damages",
    "Cost": 1420,
-   "Total Cost": 3750,
-   "Catch-Rate": "None",
+   "TotalCost": 3750,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -635,8 +635,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Multiscale - This pokemon has 50% damage reduction when it has 100% HP\n\nDragon Claw - 25% chances to deal doubled damages",
    "Cost": 1800,
-   "Total Cost": 5550,
-   "Catch-Rate": "None",
+   "TotalCost": 5550,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -655,8 +655,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Physic - Metagross pushes every enemy around him away.  AOE Damage 600, Cooldown 12 secs.",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "40",
+   "TotalCost": 10,
+   "CatchRate": "40",
    "Commentaries": ""
  },
  {
@@ -675,8 +675,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Physic - Metagross pushes every enemy around him away.  AOE Damage 600, Cooldown 12 secs.",
    "Cost": 100,
-   "Total Cost": 110,
-   "Catch-Rate": "None",
+   "TotalCost": 110,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -695,8 +695,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Physic - Metagross pushes every enemy around him away.  AOE Damage 600, Cooldown 12 secs.",
    "Cost": 230,
-   "Total Cost": 340,
-   "Catch-Rate": "None",
+   "TotalCost": 340,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -715,8 +715,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Physic - Metagross pushes every enemy around him away.  AOE Damage 600, Cooldown 12 secs.",
    "Cost": 705,
-   "Total Cost": 1045,
-   "Catch-Rate": "None",
+   "TotalCost": 1045,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -735,8 +735,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Physic - Metagross pushes every enemy around him away.  AOE Damage 600, Cooldown 12 secs.",
    "Cost": 1200,
-   "Total Cost": 2245,
-   "Catch-Rate": "None",
+   "TotalCost": 2245,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -755,8 +755,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Physic - Metagross pushes every enemy around him away.  AOE Damage 600, Cooldown 12 secs.",
    "Cost": 1790,
-   "Total Cost": 4035,
-   "Catch-Rate": "None",
+   "TotalCost": 4035,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -775,8 +775,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Physic - Metagross pushes every enemy around him away.  AOE Damage 600, Cooldown 12 secs.",
    "Cost": 2000,
-   "Total Cost": 6035,
-   "Catch-Rate": "None",
+   "TotalCost": 6035,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -795,8 +795,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "68",
+   "TotalCost": 10,
+   "CatchRate": "68",
    "Commentaries": ""
  },
  {
@@ -815,8 +815,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 260,
-   "Total Cost": 270,
-   "Catch-Rate": "None",
+   "TotalCost": 270,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -835,8 +835,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 500,
-   "Total Cost": 770,
-   "Catch-Rate": "None",
+   "TotalCost": 770,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -855,8 +855,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 750,
-   "Total Cost": 1520,
-   "Catch-Rate": "None",
+   "TotalCost": 1520,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -875,8 +875,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 1100,
-   "Total Cost": 2620,
-   "Catch-Rate": "None",
+   "TotalCost": 2620,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -895,8 +895,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Ingrain - This Pokemon has increased HP-Regneration. 12 HP per second",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "80",
+   "TotalCost": 10,
+   "CatchRate": "80",
    "Commentaries": ""
  },
  {
@@ -915,8 +915,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Ingrain - This Pokemon has increased HP-Regneration. 19 HP per second",
    "Cost": 100,
-   "Total Cost": 110,
-   "Catch-Rate": "None",
+   "TotalCost": 110,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -935,8 +935,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Ingrain - This Pokemon has increased HP-Regneration. 62 HP per second",
    "Cost": 160,
-   "Total Cost": 270,
-   "Catch-Rate": "None",
+   "TotalCost": 270,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -955,8 +955,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Ingrain - This Pokemon has increased HP-Regneration. 95 HP per second",
    "Cost": 230,
-   "Total Cost": 500,
-   "Catch-Rate": "None",
+   "TotalCost": 500,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -975,8 +975,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Ingrain - This Pokemon has increased HP-Regneration. 235 HP per second",
    "Cost": 400,
-   "Total Cost": 900,
-   "Catch-Rate": "None",
+   "TotalCost": 900,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -995,8 +995,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Ingrain - This Pokemon has increased HP-Regneration. 470 HP per second",
    "Cost": 650,
-   "Total Cost": 1550,
-   "Catch-Rate": "None",
+   "TotalCost": 1550,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1015,8 +1015,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Ingrain - This Pokemon has increased HP-Regneration. 590 HP per second",
    "Cost": 1250,
-   "Total Cost": 2800,
-   "Catch-Rate": "None",
+   "TotalCost": 2800,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1035,8 +1035,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Ingrain - This Pokemon has increased HP-Regneration. 900 HP per second",
    "Cost": 1500,
-   "Total Cost": 4300,
-   "Catch-Rate": "None",
+   "TotalCost": 4300,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1055,8 +1055,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Crush - Reduces target armor by 2 (4 during nighttime)",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "75",
+   "TotalCost": 10,
+   "CatchRate": "75",
    "Commentaries": "He has got +1 in attack"
  },
  {
@@ -1075,8 +1075,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Crush - Reduces target armor by 6 (12 during nighttime)",
    "Cost": 355,
-   "Total Cost": 365,
-   "Catch-Rate": "None",
+   "TotalCost": 365,
+   "CatchRate": "None",
    "Commentaries": "He has got +1 in attack.\nIt is written 6 during nighttime in game."
  },
  {
@@ -1095,8 +1095,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Crush - Reduces target armor by 9 (18 during nighttime)",
    "Cost": 715,
-   "Total Cost": 1080,
-   "Catch-Rate": "None",
+   "TotalCost": 1080,
+   "CatchRate": "None",
    "Commentaries": "He has got +1 in attack"
  },
  {
@@ -1115,8 +1115,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Crush - Reduces target armor by 16 (32 during nighttime)",
    "Cost": 1090,
-   "Total Cost": 2170,
-   "Catch-Rate": "None",
+   "TotalCost": 2170,
+   "CatchRate": "None",
    "Commentaries": "He has got +1 in attack"
  },
  {
@@ -1135,8 +1135,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Crush - Reduces target armor by 20 (40 during nighttime)",
    "Cost": 1430,
-   "Total Cost": 3600,
-   "Catch-Rate": "None",
+   "TotalCost": 3600,
+   "CatchRate": "None",
    "Commentaries": "He has got +1 in attack"
  },
  {
@@ -1155,8 +1155,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "95",
+   "TotalCost": 10,
+   "CatchRate": "95",
    "Commentaries": ""
  },
  {
@@ -1175,8 +1175,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "None",
    "Cost": 60,
-   "Total Cost": 70,
-   "Catch-Rate": "None",
+   "TotalCost": 70,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1195,8 +1195,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Stun Spore - Enemies are covered with spines and paralyzed. Hit enemies have a 33% chance to miss their attacks.",
    "Cost": 135,
-   "Total Cost": 205,
-   "Catch-Rate": "None",
+   "TotalCost": 205,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1215,8 +1215,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Stun Spore - Enemies are covered with spines and paralyzed. Hit enemies have a 33% chance to miss their attacks.",
    "Cost": 300,
-   "Total Cost": 505,
-   "Catch-Rate": "None",
+   "TotalCost": 505,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1235,8 +1235,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Stun Spore - Enemies are covered with spines and paralyzed. Hit enemies have a 33% chance to miss their attacks.",
    "Cost": 480,
-   "Total Cost": 985,
-   "Catch-Rate": "None",
+   "TotalCost": 985,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1255,8 +1255,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Stun Spore - Enemies are covered with spines and paralyzed. Hit enemies have a 33% chance to miss their attacks.",
    "Cost": 700,
-   "Total Cost": 1685,
-   "Catch-Rate": "None",
+   "TotalCost": 1685,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1275,8 +1275,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 200,
-   "Total Cost": 1885,
-   "Catch-Rate": "11",
+   "TotalCost": 1885,
+   "CatchRate": "11",
    "Commentaries": ""
  },
  {
@@ -1295,8 +1295,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Natural Cure - Gives nearby Pokemon a 5 defense-bonus.",
    "Cost": 922,
-   "Total Cost": 2807,
-   "Catch-Rate": "None",
+   "TotalCost": 2807,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1315,8 +1315,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Natural Cure - Gives nearby Pokemon a 8 defense-bonus.",
    "Cost": 1390,
-   "Total Cost": 4197,
-   "Catch-Rate": "None",
+   "TotalCost": 4197,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1335,8 +1335,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Natural Cure - Gives nearby Pokemon a 11 defense-bonus.",
    "Cost": 1900,
-   "Total Cost": 6097,
-   "Catch-Rate": "None",
+   "TotalCost": 6097,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1355,8 +1355,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Natural Cure - Gives nearby Pokemon a 14 defense-bonus.",
    "Cost": 2300,
-   "Total Cost": 8397,
-   "Catch-Rate": "None",
+   "TotalCost": 8397,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1375,8 +1375,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Healer - Heals 1 of allies Pokemon. Heal-Value: 75 HP Cooldown: 1.5 sec",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "52",
+   "TotalCost": 10,
+   "CatchRate": "52",
    "Commentaries": ""
  },
  {
@@ -1395,8 +1395,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Healer - Heals 1 of allies Pokemon. Heal-Value: 125 HP Cooldown: 1.5 sec",
    "Cost": 105,
-   "Total Cost": 115,
-   "Catch-Rate": "None",
+   "TotalCost": 115,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1415,8 +1415,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Healer - Heals 1 of allies Pokemon. Heal-Value: 300 HP Cooldown: 1.5 sec",
    "Cost": 255,
-   "Total Cost": 370,
-   "Catch-Rate": "None",
+   "TotalCost": 370,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1435,8 +1435,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Healer - Heals 1 of allies Pokemon. Heal-Value: 550 HP Cooldown: 1.5 sec",
    "Cost": 620,
-   "Total Cost": 990,
-   "Catch-Rate": "None",
+   "TotalCost": 990,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1455,8 +1455,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Healer - Heals 1 of allies Pokemon. Heal-Value: 800 HP Cooldown: 1.5 sec",
    "Cost": 1000,
-   "Total Cost": 1990,
-   "Catch-Rate": "None",
+   "TotalCost": 1990,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1475,8 +1475,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Healer - Heals 1 of allies Pokemon. Heal-Value: 1050 HP Cooldown: 1.5 sec",
    "Cost": 1230,
-   "Total Cost": 5210,
-   "Catch-Rate": "None",
+   "TotalCost": 5210,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1495,8 +1495,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Healer - Heals 1 of allies Pokemon. Heal-Value: 1500 HP Cooldown: 1.5 sec",
    "Cost": 1990,
-   "Total Cost": 3980,
-   "Catch-Rate": "None",
+   "TotalCost": 3980,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1515,8 +1515,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "75",
+   "TotalCost": 10,
+   "CatchRate": "75",
    "Commentaries": ""
  },
  {
@@ -1535,8 +1535,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "None",
    "Cost": 100,
-   "Total Cost": 110,
-   "Catch-Rate": "None",
+   "TotalCost": 110,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1555,8 +1555,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "None",
    "Cost": 150,
-   "Total Cost": 260,
-   "Catch-Rate": "None",
+   "TotalCost": 260,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1575,8 +1575,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "None",
    "Cost": 175,
-   "Total Cost": 435,
-   "Catch-Rate": "None",
+   "TotalCost": 435,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1595,8 +1595,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Dragon Claw - 25% chances to deal doubled damages",
    "Cost": 325,
-   "Total Cost": 760,
-   "Catch-Rate": "None",
+   "TotalCost": 760,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1615,8 +1615,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Dragon Claw - 25% chances to deal doubled damages",
    "Cost": 705,
-   "Total Cost": 1465,
-   "Catch-Rate": "None",
+   "TotalCost": 1465,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1635,8 +1635,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Dragon Claw - 25% chances to deal doubled damages",
    "Cost": 999,
-   "Total Cost": 2464,
-   "Catch-Rate": "None",
+   "TotalCost": 2464,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1655,8 +1655,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Dragon Claw - 25% chances to deal doubled damages",
    "Cost": 1450,
-   "Total Cost": 3914,
-   "Catch-Rate": "None",
+   "TotalCost": 3914,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1675,8 +1675,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "78",
+   "TotalCost": 10,
+   "CatchRate": "78",
    "Commentaries": ""
  },
  {
@@ -1695,8 +1695,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 87,
-   "Total Cost": 97,
-   "Catch-Rate": "None",
+   "TotalCost": 97,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1715,8 +1715,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 200,
-   "Total Cost": 297,
-   "Catch-Rate": "None",
+   "TotalCost": 297,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1735,8 +1735,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "BlitzRache - Increase attack against paralysed enemy by 15%\n\nLightning Rod - Prevents Electro-type damage. Every times it prevents attack, Lanturn's damage are increased by 75 (5 stacks max)",
    "Cost": 430,
-   "Total Cost": 727,
-   "Catch-Rate": "None",
+   "TotalCost": 727,
+   "CatchRate": "None",
    "Commentaries": "Spell name : BltzRache. An \"i\" might be missing."
  },
  {
@@ -1755,8 +1755,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "BlitzRache - Increase attack against paralysed enemy by 15%\n\nLightning Rod - Prevents Electro-type damage. Every times it prevents attack, Lanturn's damage are increased by 75 (5 stacks max)",
    "Cost": 900,
-   "Total Cost": 1627,
-   "Catch-Rate": "None",
+   "TotalCost": 1627,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1775,8 +1775,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "BlitzRache - Increase attack against paralysed enemy by 15%\n\nLightning Rod - Prevents Electro-type damage. Every times it prevents attack, Lanturn's damage are increased by 75 (5 stacks max)",
    "Cost": 1160,
-   "Total Cost": 2787,
-   "Catch-Rate": "None",
+   "TotalCost": 2787,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1795,8 +1795,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "67",
+   "TotalCost": 10,
+   "CatchRate": "67",
    "Commentaries": ""
  },
  {
@@ -1815,8 +1815,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 140,
-   "Total Cost": 150,
-   "Catch-Rate": "None",
+   "TotalCost": 150,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1835,8 +1835,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Double Slap - 80% chance to interrupt the attacked Pokemon",
    "Cost": 310,
-   "Total Cost": 460,
-   "Catch-Rate": "None",
+   "TotalCost": 460,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1855,8 +1855,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Double Slap - 80% chance to interrupt the attacked Pokemon",
    "Cost": 780,
-   "Total Cost": 1240,
-   "Catch-Rate": "None",
+   "TotalCost": 1240,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1875,8 +1875,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Double Slap - 80% chance to interrupt the attacked Pokemon",
    "Cost": 1500,
-   "Total Cost": 2740,
-   "Catch-Rate": "None",
+   "TotalCost": 2740,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1895,8 +1895,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 20,
-   "Total Cost": 20,
-   "Catch-Rate": "68",
+   "TotalCost": 20,
+   "CatchRate": "68",
    "Commentaries": ""
  },
  {
@@ -1915,8 +1915,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Bone Club - Marowak's attacks jump over to the next target and deals 20% reduced damage.",
    "Cost": 365,
-   "Total Cost": 385,
-   "Catch-Rate": "None",
+   "TotalCost": 385,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1935,8 +1935,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Bone Club - Marowak's attacks jump over to the next target and deals 15% reduced damage.",
    "Cost": 450,
-   "Total Cost": 835,
-   "Catch-Rate": "None",
+   "TotalCost": 835,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1955,8 +1955,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Bone Club - Marowak's attacks jump over to the next target and deals 10% reduced damage.",
    "Cost": 700,
-   "Total Cost": 1535,
-   "Catch-Rate": "None",
+   "TotalCost": 1535,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1975,8 +1975,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Bone Club - Marowak's attacks jump over to the next target and deals 0% reduced damage.",
    "Cost": 960,
-   "Total Cost": 2495,
-   "Catch-Rate": "None",
+   "TotalCost": 2495,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -1995,8 +1995,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 200,
-   "Total Cost": 2695,
-   "Catch-Rate": "10",
+   "TotalCost": 2695,
+   "CatchRate": "10",
    "Commentaries": ""
  },
  {
@@ -2015,8 +2015,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Nightmare - Darkrai turns the day into night. Dark-Type Pokemon benefit from when it´s dark. Darkrai´s damage gets multiplied x3 when it´s dark.",
    "Cost": 950,
-   "Total Cost": 3645,
-   "Catch-Rate": "None",
+   "TotalCost": 3645,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2035,8 +2035,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Nightmare - Darkrai turns the day into night. Dark-Type Pokemon benefit from when it´s dark. Darkrai´s damage gets multiplied x3 when it´s dark.",
    "Cost": 1300,
-   "Total Cost": 4945,
-   "Catch-Rate": "None",
+   "TotalCost": 4945,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2055,8 +2055,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Nightmare - Darkrai turns the day into night. Dark-Type Pokemon benefit from when it´s dark. Darkrai´s damage gets multiplied x3 when it´s dark.",
    "Cost": 1500,
-   "Total Cost": 6445,
-   "Catch-Rate": "None",
+   "TotalCost": 6445,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2075,8 +2075,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Nightmare - Darkrai turns the day into night. Dark-Type Pokemon benefit from when it´s dark. Darkrai´s damage gets multiplied x3 when it´s dark.",
    "Cost": 1900,
-   "Total Cost": 8345,
-   "Catch-Rate": "None",
+   "TotalCost": 8345,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2095,8 +2095,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "65",
+   "TotalCost": 10,
+   "CatchRate": "65",
    "Commentaries": ""
  },
  {
@@ -2115,8 +2115,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 131,
-   "Total Cost": 141,
-   "Catch-Rate": "None",
+   "TotalCost": 141,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2135,8 +2135,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Trance-Form : Became Psychic type",
    "Cost": 310,
-   "Total Cost": 451,
-   "Catch-Rate": "None",
+   "TotalCost": 451,
+   "CatchRate": "None",
    "Commentaries": "Ability not translated"
  },
  {
@@ -2155,8 +2155,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Trance-Form : Became Psychic type",
    "Cost": 880,
-   "Total Cost": 1331,
-   "Catch-Rate": "None",
+   "TotalCost": 1331,
+   "CatchRate": "None",
    "Commentaries": "Ability not translated"
  },
  {
@@ -2175,8 +2175,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Trance-Form : Became Psychic type",
    "Cost": 1280,
-   "Total Cost": 2611,
-   "Catch-Rate": "None",
+   "TotalCost": 2611,
+   "CatchRate": "None",
    "Commentaries": "Ability not translated"
  },
  {
@@ -2195,8 +2195,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 2621,
-   "Catch-Rate": "42",
+   "TotalCost": 2621,
+   "CatchRate": "42",
    "Commentaries": ""
  },
  {
@@ -2215,8 +2215,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 100,
-   "Total Cost": 2721,
-   "Catch-Rate": "None",
+   "TotalCost": 2721,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2235,8 +2235,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 208,
-   "Total Cost": 2929,
-   "Catch-Rate": "None",
+   "TotalCost": 2929,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2255,8 +2255,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 425,
-   "Total Cost": 3354,
-   "Catch-Rate": "None",
+   "TotalCost": 3354,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2275,8 +2275,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Hydora - Hydreigon attacks 2 additional Pokemon",
    "Cost": 1150,
-   "Total Cost": 4504,
-   "Catch-Rate": "None",
+   "TotalCost": 4504,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2295,8 +2295,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Hydora - Hydreigon attacks 2 additional Pokemon",
    "Cost": 1400,
-   "Total Cost": 5904,
-   "Catch-Rate": "None",
+   "TotalCost": 5904,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2315,8 +2315,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Doppleganger - Ditto transforms itself into the first Pokemon it attacks.\nThe transformed Pokemon has 20% reduced attack and takes 50% more damage.",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "45",
+   "TotalCost": 10,
+   "CatchRate": "45",
    "Commentaries": ""
  },
  {
@@ -2335,8 +2335,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Doppleganger - Ditto transforms itself into the first Pokemon it attacks.\nThe transformed Pokemon has 15% reduced attack and takes 36% more damage.",
    "Cost": 100,
-   "Total Cost": 110,
-   "Catch-Rate": "None",
+   "TotalCost": 110,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2355,8 +2355,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Doppleganger - Ditto transforms itself into the first Pokemon it attacks.\nThe transformed Pokemon has 10% reduced attack and takes 26% more damage.",
    "Cost": 200,
-   "Total Cost": 310,
-   "Catch-Rate": "None",
+   "TotalCost": 310,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2375,8 +2375,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Doppleganger - Ditto transforms itself into the first Pokemon it attacks.\nThe transformed Pokemon has 5% reduced attack and takes 14% more damage.",
    "Cost": 300,
-   "Total Cost": 610,
-   "Catch-Rate": "None",
+   "TotalCost": 610,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2395,8 +2395,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Doppleganger - Ditto transforms itself into the first Pokemon it attacks.\nThe transformed Pokemon has no reduced attack and doesn't take extra damage.",
    "Cost": 400,
-   "Total Cost": 1010,
-   "Catch-Rate": "None",
+   "TotalCost": 1010,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2415,8 +2415,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "35",
+   "TotalCost": 10,
+   "CatchRate": "35",
    "Commentaries": ""
  },
  {
@@ -2435,8 +2435,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 200,
-   "Total Cost": 210,
-   "Catch-Rate": "None",
+   "TotalCost": 210,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2455,8 +2455,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 550,
-   "Total Cost": 760,
-   "Catch-Rate": "None",
+   "TotalCost": 760,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2475,8 +2475,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Dracometeor - 25% chance to summon a powerful meteor on attack. This causes 1000 AOE damage during impact.",
    "Cost": 970,
-   "Total Cost": 1730,
-   "Catch-Rate": "None",
+   "TotalCost": 1730,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2495,8 +2495,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Dracometeor - 25% chance to summon a powerful meteor on attack. This causes 2000 AOE damage during impact.",
    "Cost": 1260,
-   "Total Cost": 2990,
-   "Catch-Rate": "None",
+   "TotalCost": 2990,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2515,8 +2515,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Dracometeor - 25% chance to summon a powerful meteor on attack. This causes 3000 AOE damage during impact.",
    "Cost": 1530,
-   "Total Cost": 4520,
-   "Catch-Rate": "None",
+   "TotalCost": 4520,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2535,8 +2535,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "82",
+   "TotalCost": 10,
+   "CatchRate": "82",
    "Commentaries": ""
  },
  {
@@ -2555,8 +2555,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Hypnosis - 25% to put the attacked Pokemon into sleep for 3 secs",
    "Cost": 250,
-   "Total Cost": 260,
-   "Catch-Rate": "None",
+   "TotalCost": 260,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2575,8 +2575,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Hypnosis - 25% to put the attacked Pokemon into sleep for 3 secs",
    "Cost": 375,
-   "Total Cost": 635,
-   "Catch-Rate": "None",
+   "TotalCost": 635,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2595,8 +2595,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Hypnosis - 25% to put the attacked Pokemon into sleep for 3 secs",
    "Cost": 500,
-   "Total Cost": 1135,
-   "Catch-Rate": "None",
+   "TotalCost": 1135,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2615,8 +2615,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Hypnosis - 25% to put the attacked Pokemon into sleep for 3 secs",
    "Cost": 720,
-   "Total Cost": 1855,
-   "Catch-Rate": "None",
+   "TotalCost": 1855,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2635,8 +2635,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "70",
+   "TotalCost": 10,
+   "CatchRate": "70",
    "Commentaries": ""
  },
  {
@@ -2655,8 +2655,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 105,
-   "Total Cost": 115,
-   "Catch-Rate": "None",
+   "TotalCost": 115,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2675,8 +2675,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Plague: If an enemy dies nearby then it creates an allied soul. The soul runs to the next enemy and explodes. Explode damage 200",
    "Cost": 280,
-   "Total Cost": 395,
-   "Catch-Rate": "None",
+   "TotalCost": 395,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2695,8 +2695,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Plague: If an enemy dies nearby then it creates an allied soul. The soul runs to the next enemy and explodes. Explode damage 400",
    "Cost": 720,
-   "Total Cost": 1115,
-   "Catch-Rate": "None",
+   "TotalCost": 1115,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2715,8 +2715,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Plague: If an enemy dies nearby then it creates an allied soul. The soul runs to the next enemy and explodes. Explode damage 600",
    "Cost": 1010,
-   "Total Cost": 2125,
-   "Catch-Rate": "None",
+   "TotalCost": 2125,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2735,8 +2735,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Plague: If an enemy dies nearby then it creates an allied soul. The soul runs to the next enemy and explodes. Explode damage 800",
    "Cost": 1250,
-   "Total Cost": 3375,
-   "Catch-Rate": "None",
+   "TotalCost": 3375,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2755,8 +2755,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "80",
+   "TotalCost": 10,
+   "CatchRate": "80",
    "Commentaries": ""
  },
  {
@@ -2775,8 +2775,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 74,
-   "Total Cost": 84,
-   "Catch-Rate": "None",
+   "TotalCost": 84,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2795,8 +2795,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Overheat - If Flareon deals damage her attack-speed increases about 5% (max. 100)",
    "Cost": 207,
-   "Total Cost": 291,
-   "Catch-Rate": "None",
+   "TotalCost": 291,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2815,8 +2815,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Overheat - If Flareon deals damage her attack-speed increases about 5% (max. 100)",
    "Cost": 460,
-   "Total Cost": 751,
-   "Catch-Rate": "None",
+   "TotalCost": 751,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2835,8 +2835,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Overheat - If Flareon deals damage her attack-speed increases about 5% (max. 100)",
    "Cost": 850,
-   "Total Cost": 1601,
-   "Catch-Rate": "None",
+   "TotalCost": 1601,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2855,8 +2855,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Overheat - If Flareon deals damage her attack-speed increases about 5% (max. 100)",
    "Cost": 1300,
-   "Total Cost": 2901,
-   "Catch-Rate": "None",
+   "TotalCost": 2901,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2875,8 +2875,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Gigadrain - Leafon gains 100% of her dealt damage as healing",
    "Cost": 255,
-   "Total Cost": 339,
-   "Catch-Rate": "None",
+   "TotalCost": 339,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2895,8 +2895,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Gigadrain - Leafon gains 100% of her dealt damage as healing",
    "Cost": 520,
-   "Total Cost": 859,
-   "Catch-Rate": "None",
+   "TotalCost": 859,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2915,8 +2915,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Gigadrain - Leafon gains 100% of her dealt damage as healing",
    "Cost": 1000,
-   "Total Cost": 1859,
-   "Catch-Rate": "None",
+   "TotalCost": 1859,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2935,8 +2935,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Gigadrain - Leafon gains 100% of her dealt damage as healing",
    "Cost": 1280,
-   "Total Cost": 3139,
-   "Catch-Rate": "None",
+   "TotalCost": 3139,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2955,8 +2955,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Baby-Doll Eyes - Whenever Sylveon is at full energy it cast Baby-Doll Eyes. Sylveon heals each allied Pokemon around its target for 200 HP. Range: 200 Cooldown: 5 Seconds  \nFairy type Pokemon recieve 50% more healing.",
    "Cost": 240,
-   "Total Cost": 324,
-   "Catch-Rate": "None",
+   "TotalCost": 324,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2975,8 +2975,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Baby-Doll Eyes - Whenever Sylveon is at full energy it cast Baby-Doll Eyes. Sylveon heals each allied Pokemon around its target for 300 HP. Range: 200 Cooldown: 5 Seconds  \nFairy type Pokemon recieve 50% more healing.",
    "Cost": 450,
-   "Total Cost": 774,
-   "Catch-Rate": "None",
+   "TotalCost": 774,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -2995,8 +2995,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Baby-Doll Eyes - Whenever Sylveon is at full energy it cast Baby-Doll Eyes. Sylveon heals each allied Pokemon around its target for 400 HP. Range: 200 Cooldown: 5 Seconds  \nFairy type Pokemon recieve 50% more healing.",
    "Cost": 800,
-   "Total Cost": 1574,
-   "Catch-Rate": "None",
+   "TotalCost": 1574,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3015,8 +3015,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Baby-Doll Eyes - Whenever Sylveon is at full energy it cast Baby-Doll Eyes. Sylveon heals each allied Pokemon around its target for 500 HP. Range: 200 Cooldown: 5 Seconds  \nFairy type Pokemon recieve 50% more healing.",
    "Cost": 1200,
-   "Total Cost": 2774,
-   "Catch-Rate": "None",
+   "TotalCost": 2774,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3035,8 +3035,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Night - Umbreon´s damage gets multiplied x3 when it´s dark.",
    "Cost": 230,
-   "Total Cost": 314,
-   "Catch-Rate": "None",
+   "TotalCost": 314,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3055,8 +3055,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Night - Umbreon´s damage gets multiplied x3 when it´s dark.",
    "Cost": 475,
-   "Total Cost": 789,
-   "Catch-Rate": "None",
+   "TotalCost": 789,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3075,8 +3075,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Night - Umbreon´s damage gets multiplied x3 when it´s dark.",
    "Cost": 790,
-   "Total Cost": 1579,
-   "Catch-Rate": "None",
+   "TotalCost": 1579,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3095,8 +3095,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Night - Umbreon´s damage gets multiplied x3 when it´s dark.",
    "Cost": 1080,
-   "Total Cost": 2659,
-   "Catch-Rate": "None",
+   "TotalCost": 2659,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3115,8 +3115,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Water Gun - 40% chance to interrupt the attacked Pokemon.",
    "Cost": 235,
-   "Total Cost": 319,
-   "Catch-Rate": "None",
+   "TotalCost": 319,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3135,8 +3135,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Water Gun - 40% chance to interrupt the attacked Pokemon.",
    "Cost": 480,
-   "Total Cost": 799,
-   "Catch-Rate": "None",
+   "TotalCost": 799,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3155,8 +3155,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Water Gun - 40% chance to interrupt the attacked Pokemon.",
    "Cost": 780,
-   "Total Cost": 1579,
-   "Catch-Rate": "None",
+   "TotalCost": 1579,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3175,8 +3175,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Water Gun - 40% chance to interrupt the attacked Pokemon.",
    "Cost": 1000,
-   "Total Cost": 2579,
-   "Catch-Rate": "None",
+   "TotalCost": 2579,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3195,8 +3195,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Lightning Rod - Prevents Electro-Type Damage.\nEvery time damage is prevented it increases the attack of the holder by 75 (5x stacks)\n\nElectricity - reflects a part of the dealt damage to the attacker.\nThe reflected damage can not be more than 8% of the maximum HP of the attacker.\n",
    "Cost": 235,
-   "Total Cost": 319,
-   "Catch-Rate": "None",
+   "TotalCost": 319,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3215,8 +3215,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Lightning Rod - Prevents Electro-Type Damage.\nEvery time damage is prevented it increases the attack of the holder by 150 (5x stacks)\n\nElectricity - reflects a part of the dealt damage to the attacker.\nThe reflected damage can not be more than 12% of the maximum HP of the attacker.\n",
    "Cost": 496,
-   "Total Cost": 815,
-   "Catch-Rate": "None",
+   "TotalCost": 815,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3235,8 +3235,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Lightning Rod - Prevents Electro-Type Damage.\nEvery time damage is prevented it increases the attack of the holder by 225 (5x stacks)\n\nElectricity - reflects a part of the dealt damage to the attacker.\nThe reflected damage can not be more than 16% of the maximum HP of the attacker.\n",
    "Cost": 880,
-   "Total Cost": 1695,
-   "Catch-Rate": "None",
+   "TotalCost": 1695,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3255,8 +3255,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Lightning Rod - Prevents Electro-Type Damage.\nEvery time damage is prevented it increases the attack of the holder by 300 (5x stacks)\n\nElectricity - reflects a part of the dealt damage to the attacker.\nThe reflected damage can not be more than 20% of the maximum HP of the attacker.\n",
    "Cost": 1100,
-   "Total Cost": 2795,
-   "Catch-Rate": "None",
+   "TotalCost": 2795,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3275,8 +3275,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "\nSnow Cloak - Glaceon packs allied Pokemons in a snow coat. Snow-covered Pokemons get 6 extra armor and slow down attacking Pokemons.",
    "Cost": 246,
-   "Total Cost": 330,
-   "Catch-Rate": "None",
+   "TotalCost": 330,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3295,8 +3295,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "\nSnow Cloak - Glaceon packs allied Pokemons in a snow coat. Snow-covered Pokemons get 10 extra armor and slow down attacking Pokemons.",
    "Cost": 525,
-   "Total Cost": 855,
-   "Catch-Rate": "None",
+   "TotalCost": 855,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3315,8 +3315,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "\nSnow Cloak - Glaceon packs allied Pokemons in a snow coat. Snow-covered Pokemons get 13 extra armor and slow down attacking Pokemons.",
    "Cost": 980,
-   "Total Cost": 1835,
-   "Catch-Rate": "None",
+   "TotalCost": 1835,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3335,8 +3335,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "\nSnow Cloak - Glaceon packs allied Pokemons in a snow coat. Snow-covered Pokemons get 18 extra armor and slow down attacking Pokemons.",
    "Cost": 1200,
-   "Total Cost": 3035,
-   "Catch-Rate": "None",
+   "TotalCost": 3035,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3355,8 +3355,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "82",
+   "TotalCost": 10,
+   "CatchRate": "82",
    "Commentaries": ""
  },
  {
@@ -3375,8 +3375,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 70,
-   "Total Cost": 80,
-   "Catch-Rate": "None",
+   "TotalCost": 80,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3395,8 +3395,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Slow Poison - Poison the enemy on attack. Poisoned Pokemon get hurt over time. Dot: 7% of max health\nDuration: 5 secs",
    "Cost": 160,
-   "Total Cost": 240,
-   "Catch-Rate": "None",
+   "TotalCost": 240,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3415,8 +3415,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Slow Poison - Poison the enemy on attack. Poisoned Pokemon get hurt over time. Dot: 7% of max health\nDuration: 5 secs",
    "Cost": 320,
-   "Total Cost": 560,
-   "Catch-Rate": "None",
+   "TotalCost": 560,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3435,8 +3435,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Slow Poison - Poison the enemy on attack. Poisoned Pokemon get hurt over time. Dot: 7% of max health\nDuration: 5 secs",
    "Cost": 415,
-   "Total Cost": 975,
-   "Catch-Rate": "None",
+   "TotalCost": 975,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3455,8 +3455,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Slow Poison - Poison the enemy on attack. Poisoned Pokemon get hurt over time. Dot: 7% of max health\nDuration: 5 secs",
    "Cost": 600,
-   "Total Cost": 1575,
-   "Catch-Rate": "None",
+   "TotalCost": 1575,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3475,8 +3475,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Slow Poison - Poison the enemy on attack. Poisoned Pokemon get hurt over time. Dot: 7% of max health\nDuration: 5 secs",
    "Cost": 785,
-   "Total Cost": 2360,
-   "Catch-Rate": "None",
+   "TotalCost": 2360,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3495,8 +3495,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "77",
+   "TotalCost": 10,
+   "CatchRate": "77",
    "Commentaries": ""
  },
  {
@@ -3515,8 +3515,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 125,
-   "Total Cost": 135,
-   "Catch-Rate": "None",
+   "TotalCost": 135,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3535,8 +3535,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Zippy Zappy - If Manectric has full energy on attack, he dashes into the direction of his enemy. Manectric damages each enemy he crosses for 150 damage.",
    "Cost": 280,
-   "Total Cost": 415,
-   "Catch-Rate": "None",
+   "TotalCost": 415,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3555,8 +3555,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Zippy Zappy - If Manectric has full energy on attack, he dashes into the direction of his enemy. Manectric damages each enemy he crosses for 350 damage.",
    "Cost": 580,
-   "Total Cost": 995,
-   "Catch-Rate": "None",
+   "TotalCost": 995,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3575,8 +3575,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Zippy Zappy - If Manectric has full energy on attack, he dashes into the direction of his enemy. Manectric damages each enemy he crosses for 500 damage.",
    "Cost": 1100,
-   "Total Cost": 2095,
-   "Catch-Rate": "None",
+   "TotalCost": 2095,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3595,8 +3595,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "70",
+   "TotalCost": 10,
+   "CatchRate": "70",
    "Commentaries": ""
  },
  {
@@ -3615,8 +3615,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 85,
-   "Total Cost": 95,
-   "Catch-Rate": "None",
+   "TotalCost": 95,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3635,8 +3635,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Thunder Punch - 50% chance on attack to cast chain lightning that does 400 damage to up to 10 targets.",
    "Cost": 255,
-   "Total Cost": 350,
-   "Catch-Rate": "None",
+   "TotalCost": 350,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3655,8 +3655,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Thunder Punch - 50% chance on attack to cast chain lightning that does 400 damage to up to 10 targets.",
    "Cost": 425,
-   "Total Cost": 775,
-   "Catch-Rate": "None",
+   "TotalCost": 775,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3675,8 +3675,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Thunder Punch - 50% chance on attack to cast chain lightning that does 400 damage to up to 10 targets.",
    "Cost": 650,
-   "Total Cost": 1425,
-   "Catch-Rate": "None",
+   "TotalCost": 1425,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3695,8 +3695,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Thunder Punch - 50% chance on attack to cast chain lightning that does 400 damage to up to 10 targets.",
    "Cost": 905,
-   "Total Cost": 2330,
-   "Catch-Rate": "None",
+   "TotalCost": 2330,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3715,8 +3715,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "None",
    "Cost": 200,
-   "Total Cost": 200,
-   "Catch-Rate": "11",
+   "TotalCost": 200,
+   "CatchRate": "11",
    "Commentaries": ""
  },
  {
@@ -3735,8 +3735,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Sacred Fire - Increase the Attack and Walk-Speed\n\n+Attack-Speed : 25%\n+Walk-Speed : 10%",
    "Cost": 980,
-   "Total Cost": 1180,
-   "Catch-Rate": "None",
+   "TotalCost": 1180,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3755,8 +3755,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Sacred Fire - Increase the Attack and Walk-Speed\n\n+Attack-Speed : 30%\n+Walk-Speed : 10%",
    "Cost": 1400,
-   "Total Cost": 2580,
-   "Catch-Rate": "None",
+   "TotalCost": 2580,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3775,8 +3775,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Sacred Fire - Increase the Attack and Walk-Speed\n\n+Attack-Speed : 35%\n+Walk-Speed : 10%",
    "Cost": 1780,
-   "Total Cost": 4360,
-   "Catch-Rate": "None",
+   "TotalCost": 4360,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3795,8 +3795,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Sacred Fire - Increase the Attack and Walk-Speed\n\n+Attack-Speed : 40%\n+Walk-Speed : 10%",
    "Cost": 2100,
-   "Total Cost": 6460,
-   "Catch-Rate": "None",
+   "TotalCost": 6460,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3815,8 +3815,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "60",
+   "TotalCost": 10,
+   "CatchRate": "60",
    "Commentaries": ""
  },
  {
@@ -3835,8 +3835,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Barrage - Exeggutor can attack up to 5 additional Pokemon. Missle DMG - 100",
    "Cost": 520,
-   "Total Cost": 530,
-   "Catch-Rate": "None",
+   "TotalCost": 530,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3855,8 +3855,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Barrage - Exeggutor can attack up to 5 additional Pokemon. Missle DMG - 400 ",
    "Cost": 1000,
-   "Total Cost": 1530,
-   "Catch-Rate": "None",
+   "TotalCost": 1530,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3875,8 +3875,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Barrage - Exeggutor can attack up to 5 additional Pokemon. Missle DMG - 700 ",
    "Cost": 1300,
-   "Total Cost": 2830,
-   "Catch-Rate": "None",
+   "TotalCost": 2830,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3895,8 +3895,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "25",
+   "TotalCost": 10,
+   "CatchRate": "25",
    "Commentaries": ""
  },
  {
@@ -3915,8 +3915,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "None",
    "Cost": 100,
-   "Total Cost": 110,
-   "Catch-Rate": "None",
+   "TotalCost": 110,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3935,8 +3935,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Refresh - 40% chance to absord and convert enemy attack into healing",
    "Cost": 445,
-   "Total Cost": 555,
-   "Catch-Rate": "None",
+   "TotalCost": 555,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3955,8 +3955,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Refresh - 40% chance to absord and convert enemy attack into healing",
    "Cost": 915,
-   "Total Cost": 1470,
-   "Catch-Rate": "None",
+   "TotalCost": 1470,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3975,8 +3975,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Refresh - 40% chance to absord and convert enemy attack into healing",
    "Cost": 1270,
-   "Total Cost": 2740,
-   "Catch-Rate": "None",
+   "TotalCost": 2740,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -3995,8 +3995,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "63",
+   "TotalCost": 10,
+   "CatchRate": "63",
    "Commentaries": ""
  },
  {
@@ -4015,8 +4015,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "None",
    "Cost": 80,
-   "Total Cost": 90,
-   "Catch-Rate": "None",
+   "TotalCost": 90,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4035,8 +4035,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Hypnosis - 25% to put the attacked Pokemon into sleep for 3 secs",
    "Cost": 170,
-   "Total Cost": 260,
-   "Catch-Rate": "None",
+   "TotalCost": 260,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4055,8 +4055,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Hypnosis - 25% to put the attacked Pokemon into sleep for 3 secs\n\nDream Eater - 400 Extra Damage against sleeping Pokemon. ",
    "Cost": 470,
-   "Total Cost": 730,
-   "Catch-Rate": "None",
+   "TotalCost": 730,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4075,8 +4075,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Hypnosis - 25% to put the attacked Pokemon into sleep for 3 secs\n\nDream Eater - 700 Extra Damage against sleeping Pokemon. ",
    "Cost": 715,
-   "Total Cost": 1445,
-   "Catch-Rate": "None",
+   "TotalCost": 1445,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4095,8 +4095,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Hypnosis - 25% to put the attacked Pokemon into sleep for 3 secs\n\nDream Eater - 1100 Extra Damage against sleeping Pokemon. ",
    "Cost": 840,
-   "Total Cost": 2285,
-   "Catch-Rate": "None",
+   "TotalCost": 2285,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4115,8 +4115,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Hypnosis - 25% to put the attacked Pokemon into sleep for 3 secs\n\nDream Eater - 1800 Extra Damage against sleeping Pokemon. ",
    "Cost": 1400,
-   "Total Cost": 3685,
-   "Catch-Rate": "None",
+   "TotalCost": 3685,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4135,8 +4135,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "90",
+   "TotalCost": 10,
+   "CatchRate": "90",
    "Commentaries": ""
  },
  {
@@ -4155,8 +4155,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 155,
-   "Total Cost": 165,
-   "Catch-Rate": "None",
+   "TotalCost": 165,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4175,8 +4175,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Stone Edge - \nThere is a 20% chance the opponent will be stunned in an attack.",
    "Cost": 235,
-   "Total Cost": 400,
-   "Catch-Rate": "None",
+   "TotalCost": 400,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4195,8 +4195,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Stone Edge - \nThere is a 20% chance the opponent will be stunned in an attack.\n\nBulletproof - Reduces the damage of ranged attacks by 20%",
    "Cost": 465,
-   "Total Cost": 865,
-   "Catch-Rate": "None",
+   "TotalCost": 865,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4215,8 +4215,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Stone Edge - \nThere is a 20% chance the opponent will be stunned in an attack.\n\nBulletproof - Reduces the damage of ranged attacks by 20%",
    "Cost": 600,
-   "Total Cost": 1465,
-   "Catch-Rate": "None",
+   "TotalCost": 1465,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4235,8 +4235,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Stone Edge - \nThere is a 20% chance the opponent will be stunned in an attack.\n\nBulletproof - Reduces the damage of ranged attacks by 20%",
    "Cost": 880,
-   "Total Cost": 2345,
-   "Catch-Rate": "None",
+   "TotalCost": 2345,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4255,8 +4255,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 200,
-   "Total Cost": 200,
-   "Catch-Rate": "11",
+   "TotalCost": 200,
+   "CatchRate": "11",
    "Commentaries": ""
  },
  {
@@ -4275,8 +4275,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1150,
-   "Total Cost": 1350,
-   "Catch-Rate": "None",
+   "TotalCost": 1350,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4295,8 +4295,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1360,
-   "Total Cost": 2710,
-   "Catch-Rate": "None",
+   "TotalCost": 2710,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4315,8 +4315,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1500,
-   "Total Cost": 4210,
-   "Catch-Rate": "None",
+   "TotalCost": 4210,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4335,8 +4335,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1850,
-   "Total Cost": 6060,
-   "Catch-Rate": "None",
+   "TotalCost": 6060,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4355,8 +4355,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "65",
+   "TotalCost": 10,
+   "CatchRate": "65",
    "Commentaries": ""
  },
  {
@@ -4375,8 +4375,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 70,
-   "Total Cost": 80,
-   "Catch-Rate": "None",
+   "TotalCost": 80,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4395,8 +4395,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 165,
-   "Total Cost": 245,
-   "Catch-Rate": "None",
+   "TotalCost": 245,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4415,8 +4415,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Roar - Reduces nearby enemies's attack\n\nReduction : 10%\nDuration : 15 secs\nCooldown : 15 secs",
    "Cost": 380,
-   "Total Cost": 625,
-   "Catch-Rate": "None",
+   "TotalCost": 625,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4435,8 +4435,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Roar - Reduces nearby enemies's attack\n\nReduction : 20%\nDuration : 15 secs\nCooldown : 15 secs",
    "Cost": 600,
-   "Total Cost": 1225,
-   "Catch-Rate": "None",
+   "TotalCost": 1225,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4455,8 +4455,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Roar - Reduces nearby enemies's attack\n\nReduction : 30%\nDuration : 15 secs\nCooldown : 15 secs",
    "Cost": 1000,
-   "Total Cost": 2225,
-   "Catch-Rate": "None",
+   "TotalCost": 2225,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4475,8 +4475,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "90",
+   "TotalCost": 10,
+   "CatchRate": "90",
    "Commentaries": ""
  },
  {
@@ -4495,8 +4495,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 68,
-   "Total Cost": 78,
-   "Catch-Rate": "None",
+   "TotalCost": 78,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4515,8 +4515,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 270,
-   "Total Cost": 348,
-   "Catch-Rate": "None",
+   "TotalCost": 348,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4535,8 +4535,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 605,
-   "Total Cost": 953,
-   "Catch-Rate": "None",
+   "TotalCost": 953,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4555,8 +4555,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 830,
-   "Total Cost": 1783,
-   "Catch-Rate": "None",
+   "TotalCost": 1783,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4575,8 +4575,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 1000,
-   "Total Cost": 2783,
-   "Catch-Rate": "None",
+   "TotalCost": 2783,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4595,8 +4595,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "72",
+   "TotalCost": 10,
+   "CatchRate": "72",
    "Commentaries": ""
  },
  {
@@ -4615,8 +4615,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "None",
    "Cost": 77,
-   "Total Cost": 87,
-   "Catch-Rate": "None",
+   "TotalCost": 87,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4635,8 +4635,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Sniper - Deals 50% more damage if range with target is bigger than 300",
    "Cost": 355,
-   "Total Cost": 442,
-   "Catch-Rate": "None",
+   "TotalCost": 442,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4655,8 +4655,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Sniper - Deals 50% more damage if range with target is bigger than 300",
    "Cost": 500,
-   "Total Cost": 942,
-   "Catch-Rate": "None",
+   "TotalCost": 942,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4675,8 +4675,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Sniper - Deals 50% more damage if range with target is bigger than 300",
    "Cost": 835,
-   "Total Cost": 1777,
-   "Catch-Rate": "None",
+   "TotalCost": 1777,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4695,8 +4695,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Sniper - Deals 50% more damage if range with target is bigger than 300",
    "Cost": 1130,
-   "Total Cost": 2907,
-   "Catch-Rate": "None",
+   "TotalCost": 2907,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4715,8 +4715,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "76",
+   "TotalCost": 10,
+   "CatchRate": "76",
    "Commentaries": ""
  },
  {
@@ -4735,8 +4735,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 240,
-   "Total Cost": 250,
-   "Catch-Rate": "None",
+   "TotalCost": 250,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4755,8 +4755,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 560,
-   "Total Cost": 810,
-   "Catch-Rate": "None",
+   "TotalCost": 810,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4775,8 +4775,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 830,
-   "Total Cost": 1640,
-   "Catch-Rate": "None",
+   "TotalCost": 1640,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4795,8 +4795,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 1115,
-   "Total Cost": 2755,
-   "Catch-Rate": "None",
+   "TotalCost": 2755,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4815,8 +4815,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 1400,
-   "Total Cost": 4155,
-   "Catch-Rate": "None",
+   "TotalCost": 4155,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4835,8 +4835,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "85",
+   "TotalCost": 10,
+   "CatchRate": "85",
    "Commentaries": ""
  },
  {
@@ -4855,8 +4855,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 90,
-   "Total Cost": 100,
-   "Catch-Rate": "None",
+   "TotalCost": 100,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4875,8 +4875,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 255,
-   "Total Cost": 355,
-   "Catch-Rate": "None",
+   "TotalCost": 355,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4895,8 +4895,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 380,
-   "Total Cost": 735,
-   "Catch-Rate": "None",
+   "TotalCost": 735,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4915,8 +4915,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 600,
-   "Total Cost": 1335,
-   "Catch-Rate": "None",
+   "TotalCost": 1335,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4935,8 +4935,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 790,
-   "Total Cost": 2125,
-   "Catch-Rate": "None",
+   "TotalCost": 2125,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4955,8 +4955,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "58",
+   "TotalCost": 10,
+   "CatchRate": "58",
    "Commentaries": ""
  },
  {
@@ -4975,8 +4975,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 115,
-   "Total Cost": 125,
-   "Catch-Rate": "None",
+   "TotalCost": 125,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -4995,8 +4995,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Sword Dance - 25% Chance on attack to gain 50% Attackspeed for a short time",
    "Cost": 500,
-   "Total Cost": 625,
-   "Catch-Rate": "None",
+   "TotalCost": 625,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5015,8 +5015,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Sword Dance - 25% Chance on attack to gain 50% Attackspeed for a short time",
    "Cost": 930,
-   "Total Cost": 1555,
-   "Catch-Rate": "None",
+   "TotalCost": 1555,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5035,8 +5035,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Sword Dance - 25% Chance on attack to gain 50% Attackspeed for a short time",
    "Cost": 1200,
-   "Total Cost": 2755,
-   "Catch-Rate": "None",
+   "TotalCost": 2755,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5055,8 +5055,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Earthquake: Damages all enemys nearby and slows them down. AOE damage 450, Attack-Speed Red  5%, Speed Red 50%, Slow Duration 5 secs, Cooldown 8 secs.",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "45",
+   "TotalCost": 10,
+   "CatchRate": "45",
    "Commentaries": ""
  },
  {
@@ -5075,8 +5075,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Earthquake: Damages all enemys nearby and slows them down. AOE damage 450, Attack-Speed Red  5%, Speed Red 50%, Slow Duration 5 secs, Cooldown 8 secs.",
    "Cost": 460,
-   "Total Cost": 470,
-   "Catch-Rate": "None",
+   "TotalCost": 470,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5095,8 +5095,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Earthquake: Damages all enemys nearby and slows them down. AOE damage 450, Attack-Speed Red  5%, Speed Red 50%, Slow Duration 5 secs, Cooldown 8 secs.",
    "Cost": 870,
-   "Total Cost": 1340,
-   "Catch-Rate": "None",
+   "TotalCost": 1340,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5115,8 +5115,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Earthquake: Damages all enemys nearby and slows them down. AOE damage 450, Attack-Speed Red  5%, Speed Red 50%, Slow Duration 5 secs, Cooldown 8 secs.",
    "Cost": 1020,
-   "Total Cost": 2360,
-   "Catch-Rate": "None",
+   "TotalCost": 2360,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5135,8 +5135,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Earthquake: Damages all enemys nearby and slows them down. AOE damage 450, Attack-Speed Red  5%, Speed Red 50%, Slow Duration 5 secs, Cooldown 8 secs.",
    "Cost": 1250,
-   "Total Cost": 3610,
-   "Catch-Rate": "None",
+   "TotalCost": 3610,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5155,8 +5155,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Earthquake: Damages all enemys nearby and slows them down. AOE damage 450, Attack-Speed Red  5%, Speed Red 50%, Slow Duration 5 secs, Cooldown 8 secs. Kanghastan Kid - ?? No description\n",
    "Cost": 1500,
-   "Total Cost": 5110,
-   "Catch-Rate": "None",
+   "TotalCost": 5110,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5175,8 +5175,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Icebeam - 16% chance on attack to freeze enemy pokemon for 3 secs",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "40",
+   "TotalCost": 10,
+   "CatchRate": "40",
    "Commentaries": ""
  },
  {
@@ -5195,8 +5195,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Icebeam - 16% chance on attack to freeze enemy pokemon for 3 secs",
    "Cost": 390,
-   "Total Cost": 400,
-   "Catch-Rate": "None",
+   "TotalCost": 400,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5215,8 +5215,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Icebeam - 16% chance on attack to freeze enemy pokemon for 3 secs",
    "Cost": 800,
-   "Total Cost": 1200,
-   "Catch-Rate": "None",
+   "TotalCost": 1200,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5235,8 +5235,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Icebeam - 16% chance on attack to freeze enemy pokemon for 3 secs",
    "Cost": 1150,
-   "Total Cost": 2350,
-   "Catch-Rate": "None",
+   "TotalCost": 2350,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5255,8 +5255,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Icebeam - 16% chance on attack to freeze enemy pokemon for 3 secs",
    "Cost": 1400,
-   "Total Cost": 3750,
-   "Catch-Rate": "None",
+   "TotalCost": 3750,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5275,8 +5275,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "43",
+   "TotalCost": 10,
+   "CatchRate": "43",
    "Commentaries": ""
  },
  {
@@ -5295,8 +5295,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 90,
-   "Total Cost": 100,
-   "Catch-Rate": "None",
+   "TotalCost": 100,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5315,8 +5315,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 270,
-   "Total Cost": 370,
-   "Catch-Rate": "None",
+   "TotalCost": 370,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5335,8 +5335,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 750,
-   "Total Cost": 1120,
-   "Catch-Rate": "None",
+   "TotalCost": 1120,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5355,8 +5355,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 915,
-   "Total Cost": 2035,
-   "Catch-Rate": "None",
+   "TotalCost": 2035,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5375,8 +5375,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1205,
-   "Total Cost": 3240,
-   "Catch-Rate": "None",
+   "TotalCost": 3240,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5395,8 +5395,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 2000,
-   "Total Cost": 5240,
-   "Catch-Rate": "None",
+   "TotalCost": 5240,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5415,8 +5415,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "63",
+   "TotalCost": 10,
+   "CatchRate": "63",
    "Commentaries": ""
  },
  {
@@ -5435,8 +5435,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Seishin - Can take a maximum of 10% of his maximum life as damage.\n Max. 30 dmg\n",
    "Cost": 320,
-   "Total Cost": 330,
-   "Catch-Rate": "None",
+   "TotalCost": 330,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5455,8 +5455,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Seishin - Can take a maximum of 10% of his maximum life as damage.\n Max. 20 dmg\n",
    "Cost": 560,
-   "Total Cost": 890,
-   "Catch-Rate": "None",
+   "TotalCost": 890,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5475,8 +5475,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Seishin - Can take a maximum of 10% of his maximum life as damage.\n Max. 10 dmg\n",
    "Cost": 840,
-   "Total Cost": 1730,
-   "Catch-Rate": "None",
+   "TotalCost": 1730,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5495,8 +5495,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Seishin - Can take a maximum of 10% of his maximum life as damage.\n Max. 5 dmg\n",
    "Cost": 1200,
-   "Total Cost": 2930,
-   "Catch-Rate": "None",
+   "TotalCost": 2930,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5515,8 +5515,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Swords Dance - 25% chance on attack to gain 50% attack speed for a short time",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "53",
+   "TotalCost": 10,
+   "CatchRate": "53",
    "Commentaries": ""
  },
  {
@@ -5535,8 +5535,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Swords Dance - 25% chance on attack to gain 50% attack speed for a short time",
    "Cost": 180,
-   "Total Cost": 190,
-   "Catch-Rate": "None",
+   "TotalCost": 190,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5555,8 +5555,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Swords Dance - 25% chance on attack to gain 50% attack speed for a short time",
    "Cost": 300,
-   "Total Cost": 490,
-   "Catch-Rate": "None",
+   "TotalCost": 490,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5575,8 +5575,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Swords Dance - 25% chance on attack to gain 50% attack speed for a short time",
    "Cost": 635,
-   "Total Cost": 1125,
-   "Catch-Rate": "None",
+   "TotalCost": 1125,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5595,8 +5595,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Swords Dance - 25% chance on attack to gain 50% attack speed for a short time",
    "Cost": 1100,
-   "Total Cost": 2225,
-   "Catch-Rate": "None",
+   "TotalCost": 2225,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5615,8 +5615,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Swords Dance - 25% chance on attack to gain 50% attack speed for a short time",
    "Cost": 1800,
-   "Total Cost": 4025,
-   "Catch-Rate": "None",
+   "TotalCost": 4025,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5635,8 +5635,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "73",
+   "TotalCost": 10,
+   "CatchRate": "73",
    "Commentaries": ""
  },
  {
@@ -5655,8 +5655,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 90,
-   "Total Cost": 100,
-   "Catch-Rate": "None",
+   "TotalCost": 100,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5675,8 +5675,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 180,
-   "Total Cost": 280,
-   "Catch-Rate": "None",
+   "TotalCost": 280,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5695,8 +5695,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 315,
-   "Total Cost": 595,
-   "Catch-Rate": "None",
+   "TotalCost": 595,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5715,8 +5715,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 630,
-   "Total Cost": 1225,
-   "Catch-Rate": "None",
+   "TotalCost": 1225,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5735,8 +5735,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1200,
-   "Total Cost": 2425,
-   "Catch-Rate": "None",
+   "TotalCost": 2425,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5755,8 +5755,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "78",
+   "TotalCost": 10,
+   "CatchRate": "78",
    "Commentaries": ""
  },
  {
@@ -5775,8 +5775,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 280,
-   "Total Cost": 290,
-   "Catch-Rate": "None",
+   "TotalCost": 290,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5795,8 +5795,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Death Fire : Flammes are attached to Magmar attacks, adding 1 damage, two times more at the second one, three times more at the third one, etc ...\n\nWhen unit die by Death Fire, all nearby units take 30 damages",
    "Cost": 410,
-   "Total Cost": 700,
-   "Catch-Rate": "None",
+   "TotalCost": 700,
+   "CatchRate": "None",
    "Commentaries": "Ability not translated"
  },
  {
@@ -5815,8 +5815,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Death Fire : Flammes are attached to Magmar attacks, adding 1 damage, two times more at the second one, three times more at the third one, etc ...\n\nWhen unit die by Death Fire, all nearby units take 30 damages",
    "Cost": 700,
-   "Total Cost": 1400,
-   "Catch-Rate": "None",
+   "TotalCost": 1400,
+   "CatchRate": "None",
    "Commentaries": "Ability not translated"
  },
  {
@@ -5835,8 +5835,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Death Fire : Flammes are attached to Magmar attacks, adding 1 damage, two times more at the second one, three times more at the third one, etc ...\n\nWhen unit die by Death Fire, all nearby units take 30 damages",
    "Cost": 1300,
-   "Total Cost": 2700,
-   "Catch-Rate": "None",
+   "TotalCost": 2700,
+   "CatchRate": "None",
    "Commentaries": "Ability not translated"
  },
  {
@@ -5855,8 +5855,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Death Fire : Flammes are attached to Magmar attacks, adding 1 damage, two times more at the second one, three times more at the third one, etc ...\n\nWhen unit die by Death Fire, all nearby units take 30 damages",
    "Cost": 1780,
-   "Total Cost": 4480,
-   "Catch-Rate": "None",
+   "TotalCost": 4480,
+   "CatchRate": "None",
    "Commentaries": "Ability not translated"
  },
  {
@@ -5875,8 +5875,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "95",
+   "TotalCost": 10,
+   "CatchRate": "95",
    "Commentaries": ""
  },
  {
@@ -5895,8 +5895,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 55,
-   "Total Cost": 65,
-   "Catch-Rate": "None",
+   "TotalCost": 65,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5915,8 +5915,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Dragon Dance - On attack Gyarados deals each enemy nearby the attacked pokemon 70% of his attack.",
    "Cost": 600,
-   "Total Cost": 665,
-   "Catch-Rate": "None",
+   "TotalCost": 665,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5935,8 +5935,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Dragon Dance - On attack Gyarados deals each enemy nearby the attacked pokemon 70% of his attack.",
    "Cost": 800,
-   "Total Cost": 1465,
-   "Catch-Rate": "None",
+   "TotalCost": 1465,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5955,8 +5955,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Dragon Dance - On attack Gyarados deals each enemy nearby the attacked pokemon 70% of his attack.",
    "Cost": 1050,
-   "Total Cost": 2515,
-   "Catch-Rate": "None",
+   "TotalCost": 2515,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5975,8 +5975,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Dragon Dance - On attack Gyarados deals each enemy nearby the attacked pokemon 70% of his attack.",
    "Cost": 1200,
-   "Total Cost": 3715,
-   "Catch-Rate": "None",
+   "TotalCost": 3715,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -5995,8 +5995,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Dragon Dance - On attack Gyarados deals each enemy nearby the attacked pokemon 70% of his attack.",
    "Cost": 1500,
-   "Total Cost": 5215,
-   "Catch-Rate": "None",
+   "TotalCost": 5215,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6015,8 +6015,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "80",
+   "TotalCost": 10,
+   "CatchRate": "80",
    "Commentaries": ""
  },
  {
@@ -6035,8 +6035,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 130,
-   "Total Cost": 140,
-   "Catch-Rate": "None",
+   "TotalCost": 140,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6055,8 +6055,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 320,
-   "Total Cost": 460,
-   "Catch-Rate": "None",
+   "TotalCost": 460,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6075,8 +6075,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 610,
-   "Total Cost": 1070,
-   "Catch-Rate": "None",
+   "TotalCost": 1070,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6095,8 +6095,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 840,
-   "Total Cost": 1910,
-   "Catch-Rate": "None",
+   "TotalCost": 1910,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6115,8 +6115,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 1100,
-   "Total Cost": 3010,
-   "Catch-Rate": "None",
+   "TotalCost": 3010,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6135,8 +6135,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "80",
+   "TotalCost": 10,
+   "CatchRate": "80",
    "Commentaries": ""
  },
  {
@@ -6155,8 +6155,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 76,
-   "Total Cost": 86,
-   "Catch-Rate": "None",
+   "TotalCost": 86,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6175,8 +6175,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 300,
-   "Total Cost": 386,
-   "Catch-Rate": "None",
+   "TotalCost": 386,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6195,8 +6195,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 720,
-   "Total Cost": 1106,
-   "Catch-Rate": "None",
+   "TotalCost": 1106,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6215,8 +6215,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1000,
-   "Total Cost": 2106,
-   "Catch-Rate": "None",
+   "TotalCost": 2106,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6235,8 +6235,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "85",
+   "TotalCost": 10,
+   "CatchRate": "85",
    "Commentaries": ""
  },
  {
@@ -6255,8 +6255,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 125,
-   "Total Cost": 135,
-   "Catch-Rate": "None",
+   "TotalCost": 135,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6275,8 +6275,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 290,
-   "Total Cost": 425,
-   "Catch-Rate": "None",
+   "TotalCost": 425,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6295,8 +6295,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 580,
-   "Total Cost": 1005,
-   "Catch-Rate": "None",
+   "TotalCost": 1005,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6315,8 +6315,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1060,
-   "Total Cost": 2065,
-   "Catch-Rate": "None",
+   "TotalCost": 2065,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6335,8 +6335,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1660,
-   "Total Cost": 3725,
-   "Catch-Rate": "None",
+   "TotalCost": 3725,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6355,8 +6355,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "90",
+   "TotalCost": 10,
+   "CatchRate": "90",
    "Commentaries": ""
  },
  {
@@ -6375,8 +6375,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 100,
-   "Total Cost": 110,
-   "Catch-Rate": "None",
+   "TotalCost": 110,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6395,8 +6395,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 230,
-   "Total Cost": 340,
-   "Catch-Rate": "None",
+   "TotalCost": 340,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6415,8 +6415,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 400,
-   "Total Cost": 740,
-   "Catch-Rate": "None",
+   "TotalCost": 740,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6435,8 +6435,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 815,
-   "Total Cost": 1555,
-   "Catch-Rate": "None",
+   "TotalCost": 1555,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6455,8 +6455,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 200,
-   "Total Cost": 200,
-   "Catch-Rate": "11",
+   "TotalCost": 200,
+   "CatchRate": "11",
    "Commentaries": ""
  },
  {
@@ -6475,8 +6475,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 830,
-   "Total Cost": 1030,
-   "Catch-Rate": "None",
+   "TotalCost": 1030,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6495,8 +6495,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1260,
-   "Total Cost": 2290,
-   "Catch-Rate": "None",
+   "TotalCost": 2290,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6515,8 +6515,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1720,
-   "Total Cost": 4010,
-   "Catch-Rate": "None",
+   "TotalCost": 4010,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6535,8 +6535,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 2040,
-   "Total Cost": 6050,
-   "Catch-Rate": "None",
+   "TotalCost": 6050,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6555,8 +6555,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 200,
-   "Total Cost": 200,
-   "Catch-Rate": "11",
+   "TotalCost": 200,
+   "CatchRate": "11",
    "Commentaries": ""
  },
  {
@@ -6575,8 +6575,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 800,
-   "Total Cost": 1000,
-   "Catch-Rate": "None",
+   "TotalCost": 1000,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6595,8 +6595,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1200,
-   "Total Cost": 2200,
-   "Catch-Rate": "None",
+   "TotalCost": 2200,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6615,8 +6615,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1640,
-   "Total Cost": 3840,
-   "Catch-Rate": "None",
+   "TotalCost": 3840,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6635,8 +6635,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 2030,
-   "Total Cost": 5870,
-   "Catch-Rate": "None",
+   "TotalCost": 5870,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6655,8 +6655,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Mirror - Mirror is activated when the HP of Mr.Mime falls below 50%. Mirror creates 3 illusions of Mr.Mime. Illusions deal no damage.",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "60",
+   "TotalCost": 10,
+   "CatchRate": "60",
    "Commentaries": ""
  },
  {
@@ -6675,8 +6675,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Mirror - Mirror is activated when the HP of Mr.Mime falls below 50%. Mirror creates 3 illusions of Mr.Mime. Illusions deal no damage.",
    "Cost": 180,
-   "Total Cost": 190,
-   "Catch-Rate": "None",
+   "TotalCost": 190,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6695,8 +6695,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Mirror - Mirror is activated when the HP of Mr.Mime falls below 50%. Mirror creates 3 illusions of Mr.Mime. Illusions deal no damage.",
    "Cost": 375,
-   "Total Cost": 565,
-   "Catch-Rate": "None",
+   "TotalCost": 565,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6715,8 +6715,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Mirror - Mirror is activated when the HP of Mr.Mime falls below 50%. Mirror creates 3 illusions of Mr.Mime. Illusions deal no damage.",
    "Cost": 555,
-   "Total Cost": 1120,
-   "Catch-Rate": "None",
+   "TotalCost": 1120,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6735,8 +6735,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Mirror - Mirror is activated when the HP of Mr.Mime falls below 50%. Mirror creates 3 illusions of Mr.Mime. Illusions deal no damage.",
    "Cost": 735,
-   "Total Cost": 1855,
-   "Catch-Rate": "None",
+   "TotalCost": 1855,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6755,8 +6755,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "77",
+   "TotalCost": 10,
+   "CatchRate": "77",
    "Commentaries": ""
  },
  {
@@ -6775,8 +6775,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 85,
-   "Total Cost": 95,
-   "Catch-Rate": "None",
+   "TotalCost": 95,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6795,8 +6795,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 180,
-   "Total Cost": 275,
-   "Catch-Rate": "None",
+   "TotalCost": 275,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6815,8 +6815,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 390,
-   "Total Cost": 665,
-   "Catch-Rate": "None",
+   "TotalCost": 665,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6835,8 +6835,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 920,
-   "Total Cost": 1585,
-   "Catch-Rate": "None",
+   "TotalCost": 1585,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6855,8 +6855,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1620,
-   "Total Cost": 3205,
-   "Catch-Rate": "None",
+   "TotalCost": 3205,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6875,8 +6875,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "85",
+   "TotalCost": 10,
+   "CatchRate": "85",
    "Commentaries": ""
  },
  {
@@ -6895,8 +6895,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 200,
-   "Total Cost": 210,
-   "Catch-Rate": "None",
+   "TotalCost": 210,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6915,8 +6915,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 450,
-   "Total Cost": 660,
-   "Catch-Rate": "None",
+   "TotalCost": 660,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6935,8 +6935,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 870,
-   "Total Cost": 1530,
-   "Catch-Rate": "None",
+   "TotalCost": 1530,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6955,8 +6955,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1150,
-   "Total Cost": 2680,
-   "Catch-Rate": "None",
+   "TotalCost": 2680,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -6975,8 +6975,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "88",
+   "TotalCost": 10,
+   "CatchRate": "88",
    "Commentaries": ""
  },
  {
@@ -6995,8 +6995,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 100,
-   "Total Cost": 110,
-   "Catch-Rate": "None",
+   "TotalCost": 110,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7015,8 +7015,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Sunny Day: Heals Pokemon nearby. Max Targets 5, Heal per Target 300 Cooldown 4 seconds",
    "Cost": 350,
-   "Total Cost": 460,
-   "Catch-Rate": "None",
+   "TotalCost": 460,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7035,8 +7035,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Poison Powder: Poisons Pokemon nearby. Poisoned Pokemon get hurt over time. DOT: 7% of Max Health",
    "Cost": 340,
-   "Total Cost": 800,
-   "Catch-Rate": "None",
+   "TotalCost": 800,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7055,8 +7055,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Sunny Day: Heals Pokemon nearby. Max Targets 5, Heal per Target 600 Cooldown 4 seconds",
    "Cost": 700,
-   "Total Cost": 1500,
-   "Catch-Rate": "None",
+   "TotalCost": 1500,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7075,8 +7075,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Poison Powder: Poisons Pokemon nearby. Poisoned Pokemon get hurt over time. DOT: 7% of Max Health",
    "Cost": 480,
-   "Total Cost": 1980,
-   "Catch-Rate": "None",
+   "TotalCost": 1980,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7095,8 +7095,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Sunny Day: Heals Pokemon nearby. Max Targets 5, Heal per Target 900 Cooldown 4 seconds",
    "Cost": 1060,
-   "Total Cost": 3040,
-   "Catch-Rate": "None",
+   "TotalCost": 3040,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7115,8 +7115,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Poison Powder: Poisons Pokemon nearby. Poisoned Pokemon get hurt over time. DOT: 7% of Max Health",
    "Cost": 650,
-   "Total Cost": 3690,
-   "Catch-Rate": "None",
+   "TotalCost": 3690,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7135,8 +7135,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "65",
+   "TotalCost": 10,
+   "CatchRate": "65",
    "Commentaries": ""
  },
  {
@@ -7155,8 +7155,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 200,
-   "Total Cost": 210,
-   "Catch-Rate": "None",
+   "TotalCost": 210,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7175,8 +7175,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 430,
-   "Total Cost": 640,
-   "Catch-Rate": "None",
+   "TotalCost": 640,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7195,8 +7195,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 850,
-   "Total Cost": 1490,
-   "Catch-Rate": "None",
+   "TotalCost": 1490,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7215,8 +7215,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1200,
-   "Total Cost": 2690,
-   "Catch-Rate": "None",
+   "TotalCost": 2690,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7235,8 +7235,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "90",
+   "TotalCost": 10,
+   "CatchRate": "90",
    "Commentaries": ""
  },
  {
@@ -7255,8 +7255,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 55,
-   "Total Cost": 65,
-   "Catch-Rate": "None",
+   "TotalCost": 65,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7275,8 +7275,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 100,
-   "Total Cost": 165,
-   "Catch-Rate": "None",
+   "TotalCost": 165,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7295,8 +7295,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 160,
-   "Total Cost": 325,
-   "Catch-Rate": "None",
+   "TotalCost": 325,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7315,8 +7315,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 230,
-   "Total Cost": 555,
-   "Catch-Rate": "None",
+   "TotalCost": 555,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7335,8 +7335,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 400,
-   "Total Cost": 955,
-   "Catch-Rate": "None",
+   "TotalCost": 955,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7355,8 +7355,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 680,
-   "Total Cost": 1635,
-   "Catch-Rate": "None",
+   "TotalCost": 1635,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7375,8 +7375,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 1000,
-   "Total Cost": 2635,
-   "Catch-Rate": "None",
+   "TotalCost": 2635,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7395,8 +7395,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Quick Attack -",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "75",
+   "TotalCost": 10,
+   "CatchRate": "75",
    "Commentaries": ""
  },
  {
@@ -7415,8 +7415,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Quick Attack -",
    "Cost": 180,
-   "Total Cost": 190,
-   "Catch-Rate": "None",
+   "TotalCost": 190,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7435,8 +7435,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Quick Attack -",
    "Cost": 390,
-   "Total Cost": 580,
-   "Catch-Rate": "None",
+   "TotalCost": 580,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7455,8 +7455,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Quick Attack -",
    "Cost": 600,
-   "Total Cost": 1180,
-   "Catch-Rate": "None",
+   "TotalCost": 1180,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7475,8 +7475,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Quick Attack -",
    "Cost": 870,
-   "Total Cost": 2050,
-   "Catch-Rate": "None",
+   "TotalCost": 2050,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7495,8 +7495,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "45",
+   "TotalCost": 10,
+   "CatchRate": "45",
    "Commentaries": ""
  },
  {
@@ -7515,8 +7515,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 218,
-   "Total Cost": 228,
-   "Catch-Rate": "None",
+   "TotalCost": 228,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7535,8 +7535,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 430,
-   "Total Cost": 658,
-   "Catch-Rate": "None",
+   "TotalCost": 658,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7555,8 +7555,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 575,
-   "Total Cost": 1233,
-   "Catch-Rate": "None",
+   "TotalCost": 1233,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7575,8 +7575,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1000,
-   "Total Cost": 2233,
-   "Catch-Rate": "None",
+   "TotalCost": 2233,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7595,8 +7595,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1700,
-   "Total Cost": 3933,
-   "Catch-Rate": "None",
+   "TotalCost": 3933,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7615,8 +7615,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "85",
+   "TotalCost": 10,
+   "CatchRate": "85",
    "Commentaries": ""
  },
  {
@@ -7635,8 +7635,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Waterfall - 40% chance to cast Waterfall on attack. All hit pokemon get 400 damages.",
    "Cost": 300,
-   "Total Cost": 310,
-   "Catch-Rate": "None",
+   "TotalCost": 310,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7655,8 +7655,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Explosives Spikes - Place a trap (YOU HAVE TO PLACE IT). Enemy near the trap triggers the trap.\n\nDamage : 150\nDot : 50 every second\nDuration : 5 seconds\nCooldown : 9 seconds",
    "Cost": 420,
-   "Total Cost": 730,
-   "Catch-Rate": "None",
+   "TotalCost": 730,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7675,8 +7675,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Explosives Spikes - Place a trap (YOU HAVE TO PLACE IT). Enemy near the trap triggers the trap.\n\nDamage : 150\nDot : 50 every second\nDuration : 5 seconds\nCooldown : 5 seconds",
    "Cost": 1000,
-   "Total Cost": 1730,
-   "Catch-Rate": "None",
+   "TotalCost": 1730,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7695,8 +7695,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Waterfall - 40% chance to cast Waterfall on attack. All hit pokemon get 700 damages.",
    "Cost": 420,
-   "Total Cost": 730,
-   "Catch-Rate": "None",
+   "TotalCost": 730,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7715,8 +7715,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Waterfall - 40% chance to cast Waterfall on attack. All hit pokemon get 900 damages.",
    "Cost": 1000,
-   "Total Cost": 1730,
-   "Catch-Rate": "None",
+   "TotalCost": 1730,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7735,8 +7735,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "72",
+   "TotalCost": 10,
+   "CatchRate": "72",
    "Commentaries": ""
  },
  {
@@ -7755,8 +7755,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 170,
-   "Total Cost": 180,
-   "Catch-Rate": "None",
+   "TotalCost": 180,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7775,8 +7775,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Fire spin - Every second Fire Spin deals 150 damages to each nearby Pokemon",
    "Cost": 350,
-   "Total Cost": 530,
-   "Catch-Rate": "None",
+   "TotalCost": 530,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7795,8 +7795,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Fire spin - Every second Fire Spin deals 300 damages to each nearby Pokemon",
    "Cost": 600,
-   "Total Cost": 1130,
-   "Catch-Rate": "None",
+   "TotalCost": 1130,
+   "CatchRate": "None",
    "Commentaries": "Should evolve into Galopa"
  },
  {
@@ -7815,8 +7815,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Fire spin - Every second Fire Spin deals 500 damages to each nearby Pokemon",
    "Cost": 900,
-   "Total Cost": 2030,
-   "Catch-Rate": "None",
+   "TotalCost": 2030,
+   "CatchRate": "None",
    "Commentaries": "Should evolve into Galopa"
  },
  {
@@ -7835,8 +7835,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "90",
+   "TotalCost": 10,
+   "CatchRate": "90",
    "Commentaries": ""
  },
  {
@@ -7855,8 +7855,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 60,
-   "Total Cost": 70,
-   "Catch-Rate": "None",
+   "TotalCost": 70,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7875,8 +7875,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 120,
-   "Total Cost": 190,
-   "Catch-Rate": "None",
+   "TotalCost": 190,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7895,8 +7895,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Manashield - Golduck convert his mana into shield.\nGolduck convert 35% of his Attack into Mana",
    "Cost": 300,
-   "Total Cost": 490,
-   "Catch-Rate": "None",
+   "TotalCost": 490,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7915,8 +7915,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Manashield - Golduck convert his mana into shield.\nGolduck convert 35% of his Attack into Mana",
    "Cost": 560,
-   "Total Cost": 1050,
-   "Catch-Rate": "None",
+   "TotalCost": 1050,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7935,8 +7935,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Manashield - Golduck convert his mana into shield.\nGolduck convert 35% of his Attack into Mana\n\nConfusion - Confuses attacking Pokemon for 6 secs\nConfused pokemon has 16% chance to hit themselves",
    "Cost": 820,
-   "Total Cost": 1870,
-   "Catch-Rate": "None",
+   "TotalCost": 1870,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7955,8 +7955,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 200,
-   "Total Cost": 200,
-   "Catch-Rate": "11",
+   "TotalCost": 200,
+   "CatchRate": "11",
    "Commentaries": ""
  },
  {
@@ -7975,8 +7975,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 970,
-   "Total Cost": 1170,
-   "Catch-Rate": "None",
+   "TotalCost": 1170,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -7995,8 +7995,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 1340,
-   "Total Cost": 2510,
-   "Catch-Rate": "None",
+   "TotalCost": 2510,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8015,8 +8015,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 1500,
-   "Total Cost": 4010,
-   "Catch-Rate": "None",
+   "TotalCost": 4010,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8035,8 +8035,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 1860,
-   "Total Cost": 5870,
-   "Catch-Rate": "None",
+   "TotalCost": 5870,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8055,8 +8055,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "60",
+   "TotalCost": 10,
+   "CatchRate": "60",
    "Commentaries": ""
  },
  {
@@ -8075,8 +8075,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "None",
    "Cost": 75,
-   "Total Cost": 85,
-   "Catch-Rate": "None",
+   "TotalCost": 85,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8095,8 +8095,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "None",
    "Cost": 150,
-   "Total Cost": 235,
-   "Catch-Rate": "None",
+   "TotalCost": 235,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8115,8 +8115,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Draining Kiss - Gardevoir releases 20 attacking ghost that deal 15 damage. Whenever a ghost deals damage, Gardevoir is healed for the same value. Ghost dealing damage is Psychic-type",
    "Cost": 500,
-   "Total Cost": 735,
-   "Catch-Rate": "None",
+   "TotalCost": 735,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8135,8 +8135,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Draining Kiss - Gardevoir releases 20 attacking ghost that deal 30 damage. Whenever a ghost deals damage, Gardevoir is healed for the same value. Ghost dealing damage is Psychic-type",
    "Cost": 800,
-   "Total Cost": 1535,
-   "Catch-Rate": "None",
+   "TotalCost": 1535,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8155,8 +8155,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Draining Kiss - Gardevoir releases 20 attacking ghost that deal 50 damage. Whenever a ghost deals damage, Gardevoir is healed for the same value. Ghost dealing damage is Psychic-type",
    "Cost": 1300,
-   "Total Cost": 2835,
-   "Catch-Rate": "None",
+   "TotalCost": 2835,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8175,8 +8175,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Draining Kiss - Gardevoir releases 20 attacking ghost that deal 80 damage. Whenever a ghost deals damage, Gardevoir is healed for the same value. Ghost dealing damage is Psychic-type",
    "Cost": 1680,
-   "Total Cost": 4515,
-   "Catch-Rate": "None",
+   "TotalCost": 4515,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8195,8 +8195,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 200,
-   "Total Cost": 200,
-   "Catch-Rate": "11",
+   "TotalCost": 200,
+   "CatchRate": "11",
    "Commentaries": ""
  },
  {
@@ -8215,8 +8215,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 860,
-   "Total Cost": 1060,
-   "Catch-Rate": "None",
+   "TotalCost": 1060,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8235,8 +8235,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 1450,
-   "Total Cost": 2510,
-   "Catch-Rate": "None",
+   "TotalCost": 2510,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8255,8 +8255,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 1850,
-   "Total Cost": 4360,
-   "Catch-Rate": "None",
+   "TotalCost": 4360,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8275,8 +8275,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 2000,
-   "Total Cost": 6360,
-   "Catch-Rate": "None",
+   "TotalCost": 6360,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8295,8 +8295,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "70",
+   "TotalCost": 10,
+   "CatchRate": "70",
    "Commentaries": ""
  },
  {
@@ -8315,8 +8315,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 340,
-   "Total Cost": 350,
-   "Catch-Rate": "None",
+   "TotalCost": 350,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8335,8 +8335,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Fury - Fury activate when HP of Rhydon are bellow 65%\n\n+DMG : 250\n+HP : 2000\n+Defense : 20",
    "Cost": 400,
-   "Total Cost": 750,
-   "Catch-Rate": "None",
+   "TotalCost": 750,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8355,8 +8355,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Fury - Fury activate when HP of Rhydon are bellow 65%\n\n+DMG : 350\n+HP : 4000\n+Defense : 35",
    "Cost": 500,
-   "Total Cost": 1250,
-   "Catch-Rate": "None",
+   "TotalCost": 1250,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8375,8 +8375,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Fury - Fury activate when HP of Rhydon are bellow 65%\n\n+DMG : 600\n+HP : 6000\n+Defense : 45",
    "Cost": 900,
-   "Total Cost": 2150,
-   "Catch-Rate": "None",
+   "TotalCost": 2150,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8395,8 +8395,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Fury - Fury activate when HP of Rhydon are bellow 65%\n\n+DMG : 600\n+HP : 6000\n+Defense : 45",
    "Cost": 1400,
-   "Total Cost": 3550,
-   "Catch-Rate": "None",
+   "TotalCost": 3550,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8415,8 +8415,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "45",
+   "TotalCost": 10,
+   "CatchRate": "45",
    "Commentaries": ""
  },
  {
@@ -8435,8 +8435,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 170,
-   "Total Cost": 180,
-   "Catch-Rate": "None",
+   "TotalCost": 180,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8455,8 +8455,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 300,
-   "Total Cost": 480,
-   "Catch-Rate": "None",
+   "TotalCost": 480,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8475,8 +8475,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 480,
-   "Total Cost": 960,
-   "Catch-Rate": "None",
+   "TotalCost": 960,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8495,8 +8495,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 700,
-   "Total Cost": 1660,
-   "Catch-Rate": "None",
+   "TotalCost": 1660,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8515,8 +8515,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 1000,
-   "Total Cost": 2660,
-   "Catch-Rate": "None",
+   "TotalCost": 2660,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8535,8 +8535,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 1470,
-   "Total Cost": 4130,
-   "Catch-Rate": "None",
+   "TotalCost": 4130,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8555,8 +8555,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "70",
+   "TotalCost": 10,
+   "CatchRate": "70",
    "Commentaries": ""
  },
  {
@@ -8575,8 +8575,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 65,
-   "Total Cost": 75,
-   "Catch-Rate": "None",
+   "TotalCost": 75,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8595,8 +8595,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Ice Attack - Add ice on attack, slowing target",
    "Cost": 300,
-   "Total Cost": 375,
-   "Catch-Rate": "None",
+   "TotalCost": 375,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8615,8 +8615,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Ice Attack - Add ice on attack, slowing target",
    "Cost": 440,
-   "Total Cost": 815,
-   "Catch-Rate": "None",
+   "TotalCost": 815,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8635,8 +8635,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Ice Attack - Add ice on attack, slowing target",
    "Cost": 1000,
-   "Total Cost": 1815,
-   "Catch-Rate": "None",
+   "TotalCost": 1815,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8655,8 +8655,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "67",
+   "TotalCost": 10,
+   "CatchRate": "67",
    "Commentaries": ""
  },
  {
@@ -8675,8 +8675,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Frost-Nova : Cast a Frost Nova that deals 700 damages to target and 400 to surround units, slowing their movement and attack speed during 4 seconds",
    "Cost": 490,
-   "Total Cost": 500,
-   "Catch-Rate": "None",
+   "TotalCost": 500,
+   "CatchRate": "None",
    "Commentaries": "Ability in player's langage"
  },
  {
@@ -8695,8 +8695,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Frost-Nova : Cast a Frost Nova that deals 700 damages to target and 400 to surround units, slowing their movement and attack speed during 4 seconds",
    "Cost": 730,
-   "Total Cost": 1230,
-   "Catch-Rate": "None",
+   "TotalCost": 1230,
+   "CatchRate": "None",
    "Commentaries": "Ability in player's langage"
  },
  {
@@ -8715,8 +8715,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Frost-Nova : Cast a Frost Nova that deals 700 damages to target and 400 to surround units, slowing their movement and attack speed during 4 seconds",
    "Cost": 1050,
-   "Total Cost": 2280,
-   "Catch-Rate": "None",
+   "TotalCost": 2280,
+   "CatchRate": "None",
    "Commentaries": "Ability in player's langage"
  },
  {
@@ -8735,8 +8735,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Metal Claw - 30% Chance for a critical strike. Critical Multiplier x2.5. \n\nKeen Eyes - Skarmory Tries to target ranged Pokemon first.",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "50",
+   "TotalCost": 10,
+   "CatchRate": "50",
    "Commentaries": ""
  },
  {
@@ -8755,8 +8755,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Metal Claw - 30% Chance for a critical strike. Critical Multiplier x2.5. \n\nKeen Eyes - Skarmory Tries to target ranged Pokemon first.",
    "Cost": 180,
-   "Total Cost": 190,
-   "Catch-Rate": "None",
+   "TotalCost": 190,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8775,8 +8775,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Metal Claw - 30% Chance for a critical strike. Critical Multiplier x2.5. \n\nKeen Eyes - Skarmory Tries to target ranged Pokemon first.",
    "Cost": 340,
-   "Total Cost": 530,
-   "Catch-Rate": "None",
+   "TotalCost": 530,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8795,8 +8795,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Metal Claw - 30% Chance for a critical strike. Critical Multiplier x2.5. \n\nKeen Eyes - Skarmory Tries to target ranged Pokemon first.",
    "Cost": 670,
-   "Total Cost": 1200,
-   "Catch-Rate": "None",
+   "TotalCost": 1200,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8815,8 +8815,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Metal Claw - 30% Chance for a critical strike. Critical Multiplier x2.5. \n\nKeen Eyes - Skarmory Tries to target ranged Pokemon first.",
    "Cost": 800,
-   "Total Cost": 2000,
-   "Catch-Rate": "None",
+   "TotalCost": 2000,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8835,8 +8835,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Metal Claw - 30% Chance for a critical strike. Critical Multiplier x2.5. \n\nKeen Eyes - Skarmory Tries to target ranged Pokemon first.",
    "Cost": 1000,
-   "Total Cost": 3000,
-   "Catch-Rate": "None",
+   "TotalCost": 3000,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8855,8 +8855,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "80",
+   "TotalCost": 10,
+   "CatchRate": "80",
    "Commentaries": ""
  },
  {
@@ -8875,8 +8875,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 150,
-   "Total Cost": 160,
-   "Catch-Rate": "None",
+   "TotalCost": 160,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8895,8 +8895,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Flame Body - If an enemy pokemon has a contact with Magcargo it suffers 300 damages",
    "Cost": 330,
-   "Total Cost": 490,
-   "Catch-Rate": "None",
+   "TotalCost": 490,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8915,8 +8915,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Flame Body - If an enemy pokemon has a contact with Magcargo it suffers 500 damages",
    "Cost": 520,
-   "Total Cost": 1010,
-   "Catch-Rate": "None",
+   "TotalCost": 1010,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8935,8 +8935,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Flame Body - If an enemy pokemon has a contact with Magcargo it suffers 700 damages",
    "Cost": 700,
-   "Total Cost": 1710,
-   "Catch-Rate": "None",
+   "TotalCost": 1710,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8955,8 +8955,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "70",
+   "TotalCost": 10,
+   "CatchRate": "70",
    "Commentaries": ""
  },
  {
@@ -8975,8 +8975,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 70,
-   "Total Cost": 80,
-   "Catch-Rate": "None",
+   "TotalCost": 80,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -8995,8 +8995,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Lovely Kiss - Put the target into sleep for 3 seconds. If target is already sleeping, then double the sleep duration.",
    "Cost": 380,
-   "Total Cost": 460,
-   "Catch-Rate": "None",
+   "TotalCost": 460,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9015,8 +9015,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Lovely Kiss - Put the target into sleep for 3 seconds. If target is already sleeping, then double the sleep duration.",
    "Cost": 750,
-   "Total Cost": 1210,
-   "Catch-Rate": "None",
+   "TotalCost": 1210,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9035,8 +9035,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Lovely Kiss - Put the target into sleep for 3 seconds. If target is already sleeping, then double the sleep duration.",
    "Cost": 1200,
-   "Total Cost": 2410,
-   "Catch-Rate": "None",
+   "TotalCost": 2410,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9055,8 +9055,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Hone Claws - After killing a Pokemon this pokemon gains full HP\n\nNight - Dark-Type : increase Health Point - Regeneration when it's dark",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "53",
+   "TotalCost": 10,
+   "CatchRate": "53",
    "Commentaries": ""
  },
  {
@@ -9075,8 +9075,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Hone Claws - After killing a Pokemon this pokemon gains full HP\n\nNight - Dark-Type : increase Health Point - Regeneration when it's dark",
    "Cost": 200,
-   "Total Cost": 210,
-   "Catch-Rate": "None",
+   "TotalCost": 210,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9095,8 +9095,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Hone Claws - After killing a Pokemon this pokemon gains full HP\n\nNight - Dark-Type : increase Health Point - Regeneration when it's dark",
    "Cost": 400,
-   "Total Cost": 610,
-   "Catch-Rate": "None",
+   "TotalCost": 610,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9115,8 +9115,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Hone Claws - After killing a Pokemon this pokemon gains full HP\n\nNight - Dark-Type : increase Health Point - Regeneration when it's dark",
    "Cost": 730,
-   "Total Cost": 1340,
-   "Catch-Rate": "None",
+   "TotalCost": 1340,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9135,8 +9135,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Hone Claws - After killing a Pokemon this pokemon gains full HP\n\nNight - Dark-Type : increase Health Point - Regeneration when it's dark",
    "Cost": 1000,
-   "Total Cost": 2340,
-   "Catch-Rate": "None",
+   "TotalCost": 2340,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9155,8 +9155,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Hone Claws - After killing a Pokemon this pokemon gains full HP\n\nNight - Dark-Type : increase Health Point - Regeneration when it's dark",
    "Cost": 1400,
-   "Total Cost": 3740,
-   "Catch-Rate": "None",
+   "TotalCost": 3740,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9175,8 +9175,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": " Snore: When Snorlax gets mortal damage he activates snore and prevents his death. Snore puts Snorlax to sleep and he gets increased HP-Regeneration. Sleep duration 6 seconds.",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "40",
+   "TotalCost": 10,
+   "CatchRate": "40",
    "Commentaries": ""
  },
  {
@@ -9195,8 +9195,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": " Snore: When Snorlax gets mortal damage he activates snore and prevents his death. Snore puts Snorlax to sleep and he gets increased HP-Regeneration. Sleep duration 6 seconds.",
    "Cost": 435,
-   "Total Cost": 445,
-   "Catch-Rate": "None",
+   "TotalCost": 445,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9215,8 +9215,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": " Snore: When Snorlax gets mortal damage he activates snore and prevents his death. Snore puts Snorlax to sleep and he gets increased HP-Regeneration. Sleep duration 6 seconds.",
    "Cost": 900,
-   "Total Cost": 1345,
-   "Catch-Rate": "None",
+   "TotalCost": 1345,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9235,8 +9235,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": " Snore: When Snorlax gets mortal damage he activates snore and prevents his death. Snore puts Snorlax to sleep and he gets increased HP-Regeneration. Sleep duration 6 seconds.",
    "Cost": 1200,
-   "Total Cost": 2545,
-   "Catch-Rate": "None",
+   "TotalCost": 2545,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9255,8 +9255,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": " Snore: When Snorlax gets mortal damage he activates snore and prevents his death. Snore puts Snorlax to sleep and he gets increased HP-Regeneration. Sleep duration 6 seconds.",
    "Cost": 1750,
-   "Total Cost": 4295,
-   "Catch-Rate": "None",
+   "TotalCost": 4295,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9275,8 +9275,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "80",
+   "TotalCost": 10,
+   "CatchRate": "80",
    "Commentaries": ""
  },
  {
@@ -9295,8 +9295,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 190,
-   "Total Cost": 200,
-   "Catch-Rate": "None",
+   "TotalCost": 200,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9315,8 +9315,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 590,
-   "Total Cost": 790,
-   "Catch-Rate": "None",
+   "TotalCost": 790,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9335,8 +9335,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 740,
-   "Total Cost": 1530,
-   "Catch-Rate": "None",
+   "TotalCost": 1530,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9355,8 +9355,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1000,
-   "Total Cost": 2530,
-   "Catch-Rate": "None",
+   "TotalCost": 2530,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9375,8 +9375,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "75",
+   "TotalCost": 10,
+   "CatchRate": "75",
    "Commentaries": ""
  },
  {
@@ -9395,8 +9395,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 100,
-   "Total Cost": 110,
-   "Catch-Rate": "None",
+   "TotalCost": 110,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9415,8 +9415,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 155,
-   "Total Cost": 265,
-   "Catch-Rate": "None",
+   "TotalCost": 265,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9435,8 +9435,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 180,
-   "Total Cost": 445,
-   "Catch-Rate": "None",
+   "TotalCost": 445,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9455,8 +9455,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Hydro Pump - Bastoise cast Hydro Pump on attack, dealing 5 time damage and knocking back target. ",
    "Cost": 390,
-   "Total Cost": 835,
-   "Catch-Rate": "None",
+   "TotalCost": 835,
+   "CatchRate": "None",
    "Commentaries": "Hydro Pump cost mana to cast."
  },
  {
@@ -9475,8 +9475,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Hydro Pump - Bastoise cast Hydro Pump on attack, dealing 5 time damage and knocking back target. ",
    "Cost": 625,
-   "Total Cost": 1460,
-   "Catch-Rate": "None",
+   "TotalCost": 1460,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9495,8 +9495,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Hydro Pump - Bastoise cast Hydro Pump on attack, dealing 5 time damage and knocking back target. ",
    "Cost": 1000,
-   "Total Cost": 2460,
-   "Catch-Rate": "None",
+   "TotalCost": 2460,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9515,8 +9515,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Hydro Pump - Bastoise cast Hydro Pump on attack, dealing 5 time damage and knocking back target. ",
    "Cost": 1425,
-   "Total Cost": 3885,
-   "Catch-Rate": "None",
+   "TotalCost": 3885,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9535,8 +9535,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "None",
    "Cost": 200,
-   "Total Cost": 200,
-   "Catch-Rate": "11",
+   "TotalCost": 200,
+   "CatchRate": "11",
    "Commentaries": ""
  },
  {
@@ -9555,8 +9555,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Aqua Ring - Whenever Suicune hits an attack it heals all ally pokemon nearby 300 HP",
    "Cost": 1000,
-   "Total Cost": 1200,
-   "Catch-Rate": "None",
+   "TotalCost": 1200,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9575,8 +9575,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Aqua Ring - Whenever Suicune hits an attack it heals all ally pokemon nearby 525 HP",
    "Cost": 1310,
-   "Total Cost": 2510,
-   "Catch-Rate": "None",
+   "TotalCost": 2510,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9595,8 +9595,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Aqua Ring - Whenever Suicune hits an attack it heals all ally pokemon nearby 780 HP",
    "Cost": 1450,
-   "Total Cost": 3960,
-   "Catch-Rate": "None",
+   "TotalCost": 3960,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9615,8 +9615,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Aqua Ring - Whenever Suicune hits an attack it heals all ally pokemon nearby 1000 HP",
    "Cost": 1600,
-   "Total Cost": 5560,
-   "Catch-Rate": "None",
+   "TotalCost": 5560,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9635,8 +9635,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "59",
+   "TotalCost": 10,
+   "CatchRate": "59",
    "Commentaries": ""
  },
  {
@@ -9655,8 +9655,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 190,
-   "Total Cost": 200,
-   "Catch-Rate": "None",
+   "TotalCost": 200,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9675,8 +9675,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 400,
-   "Total Cost": 600,
-   "Catch-Rate": "None",
+   "TotalCost": 600,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9695,8 +9695,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 950,
-   "Total Cost": 1550,
-   "Catch-Rate": "None",
+   "TotalCost": 1550,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9715,8 +9715,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1200,
-   "Total Cost": 2750,
-   "Catch-Rate": "None",
+   "TotalCost": 2750,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9735,8 +9735,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Stone Edge - There is a 20% chance that the opponent will be stunned in an attack.\n\nSheer Force - Tauros pushes stunned targets away. 50% more damaged against stunned targets.\n",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "50",
+   "TotalCost": 10,
+   "CatchRate": "50",
    "Commentaries": ""
  },
  {
@@ -9755,8 +9755,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Stone Edge - There is a 20% chance that the opponent will be stunned in an attack.\n\nSheer Force - Tauros pushes stunned targets away. 50% more damaged against stunned targets.\n",
    "Cost": 370,
-   "Total Cost": 380,
-   "Catch-Rate": "None",
+   "TotalCost": 380,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9775,8 +9775,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Stone Edge - There is a 20% chance that the opponent will be stunned in an attack.\n\nSheer Force - Tauros pushes stunned targets away. 50% more damaged against stunned targets.\n",
    "Cost": 630,
-   "Total Cost": 1010,
-   "Catch-Rate": "None",
+   "TotalCost": 1010,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9795,8 +9795,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Stone Edge - There is a 20% chance that the opponent will be stunned in an attack.\n\nSheer Force - Tauros pushes stunned targets away. 50% more damaged against stunned targets.\n",
    "Cost": 900,
-   "Total Cost": 1910,
-   "Catch-Rate": "None",
+   "TotalCost": 1910,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9815,8 +9815,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Stone Edge - There is a 20% chance that the opponent will be stunned in an attack.\n\nSheer Force - Tauros pushes stunned targets away. 50% more damaged against stunned targets.\n",
    "Cost": 1300,
-   "Total Cost": 3210,
-   "Catch-Rate": "None",
+   "TotalCost": 3210,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9835,8 +9835,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "75",
+   "TotalCost": 10,
+   "CatchRate": "75",
    "Commentaries": ""
  },
  {
@@ -9855,8 +9855,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "None",
    "Cost": 80,
-   "Total Cost": 90,
-   "Catch-Rate": "None",
+   "TotalCost": 90,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9875,8 +9875,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "Firekick - On attack Blaziken shoots 1 Fireball at surrounding opponents\n\nMax targets : 3\nDamage per targers : 250\nCooldown : 3 seconds",
    "Cost": 165,
-   "Total Cost": 255,
-   "Catch-Rate": "None",
+   "TotalCost": 255,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9895,8 +9895,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Firekick - On attack Blaziken shoots 1 Fireball at surrounding opponents\n\nMax targets : 5\nDamage per targers : 450\nCooldown : 3 seconds",
    "Cost": 420,
-   "Total Cost": 675,
-   "Catch-Rate": "None",
+   "TotalCost": 675,
+   "CatchRate": "None",
    "Commentaries": "Display of ability text is not the same"
  },
  {
@@ -9915,8 +9915,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Firekick - On attack Blaziken shoots 1 Fireball at surrounding opponents\n\nMax targets : 5\nDamage per targers : 600\nCooldown : 3 seconds",
    "Cost": 740,
-   "Total Cost": 1415,
-   "Catch-Rate": "None",
+   "TotalCost": 1415,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9935,8 +9935,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Firekick - On attack Blaziken shoots 1 Fireball at surrounding opponents\n\nMax targets : 5\nDamage per targers : 750\nCooldown : 3 seconds",
    "Cost": 740,
-   "Total Cost": 2155,
-   "Catch-Rate": "None",
+   "TotalCost": 2155,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9955,8 +9955,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "Firekick - On attack Blaziken shoots 1 Fireball at surrounding opponents\n\nMax targets : 3\nDamage per targers : 750\nCooldown : 1.5 seconds",
    "Cost": 1250,
-   "Total Cost": 3405,
-   "Catch-Rate": "None",
+   "TotalCost": 3405,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -9975,8 +9975,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "57",
+   "TotalCost": 10,
+   "CatchRate": "57",
    "Commentaries": ""
  },
  {
@@ -9995,8 +9995,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 160,
-   "Total Cost": 170,
-   "Catch-Rate": "None",
+   "TotalCost": 170,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10015,8 +10015,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 397,
-   "Total Cost": 567,
-   "Catch-Rate": "None",
+   "TotalCost": 567,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10035,8 +10035,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 480,
-   "Total Cost": 1047,
-   "Catch-Rate": "None",
+   "TotalCost": 1047,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10055,8 +10055,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1000,
-   "Total Cost": 2047,
-   "Catch-Rate": "None",
+   "TotalCost": 2047,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10075,8 +10075,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1500,
-   "Total Cost": 3547,
-   "Catch-Rate": "None",
+   "TotalCost": 3547,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10095,8 +10095,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "75",
+   "TotalCost": 10,
+   "CatchRate": "75",
    "Commentaries": ""
  },
  {
@@ -10115,8 +10115,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 115,
-   "Total Cost": 125,
-   "Catch-Rate": "None",
+   "TotalCost": 125,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10135,8 +10135,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 320,
-   "Total Cost": 445,
-   "Catch-Rate": "None",
+   "TotalCost": 445,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10155,8 +10155,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 640,
-   "Total Cost": 1085,
-   "Catch-Rate": "None",
+   "TotalCost": 1085,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10175,8 +10175,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 820,
-   "Total Cost": 1905,
-   "Catch-Rate": "None",
+   "TotalCost": 1905,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10195,8 +10195,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1360,
-   "Total Cost": 3265,
-   "Catch-Rate": "None",
+   "TotalCost": 3265,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10215,8 +10215,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "76",
+   "TotalCost": 10,
+   "CatchRate": "76",
    "Commentaries": ""
  },
  {
@@ -10235,8 +10235,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 80,
-   "Total Cost": 90,
-   "Catch-Rate": "None",
+   "TotalCost": 90,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10255,8 +10255,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 220,
-   "Total Cost": 310,
-   "Catch-Rate": "None",
+   "TotalCost": 310,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10275,8 +10275,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 455,
-   "Total Cost": 765,
-   "Catch-Rate": "None",
+   "TotalCost": 765,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10295,8 +10295,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 800,
-   "Total Cost": 1550,
-   "Catch-Rate": "None",
+   "TotalCost": 1550,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10315,8 +10315,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1020,
-   "Total Cost": 2550,
-   "Catch-Rate": "None",
+   "TotalCost": 2550,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10335,8 +10335,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 220,
-   "Total Cost": 310,
-   "Catch-Rate": "None",
+   "TotalCost": 310,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10355,8 +10355,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 450,
-   "Total Cost": 760,
-   "Catch-Rate": "None",
+   "TotalCost": 760,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10375,8 +10375,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 800,
-   "Total Cost": 1560,
-   "Catch-Rate": "None",
+   "TotalCost": 1560,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10395,8 +10395,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1000,
-   "Total Cost": 2560,
-   "Catch-Rate": "None",
+   "TotalCost": 2560,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10415,8 +10415,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 220,
-   "Total Cost": 310,
-   "Catch-Rate": "None",
+   "TotalCost": 310,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10435,8 +10435,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 440,
-   "Total Cost": 750,
-   "Catch-Rate": "None",
+   "TotalCost": 750,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10455,8 +10455,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 780,
-   "Total Cost": 1530,
-   "Catch-Rate": "None",
+   "TotalCost": 1530,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10475,8 +10475,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1000,
-   "Total Cost": 2530,
-   "Catch-Rate": "None",
+   "TotalCost": 2530,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10495,8 +10495,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "80",
+   "TotalCost": 10,
+   "CatchRate": "80",
    "Commentaries": ""
  },
  {
@@ -10515,8 +10515,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 80,
-   "Total Cost": 90,
-   "Catch-Rate": "None",
+   "TotalCost": 90,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10535,8 +10535,8 @@ var pokedex = [
    "Low Priority": "Suicidal",
    "Ability": "",
    "Cost": 400,
-   "Total Cost": 490,
-   "Catch-Rate": "None",
+   "TotalCost": 490,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10555,8 +10555,8 @@ var pokedex = [
    "Low Priority": "Suicidal",
    "Ability": "",
    "Cost": 580,
-   "Total Cost": 1070,
-   "Catch-Rate": "None",
+   "TotalCost": 1070,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10575,8 +10575,8 @@ var pokedex = [
    "Low Priority": "Suicidal",
    "Ability": "",
    "Cost": 1050,
-   "Total Cost": 2120,
-   "Catch-Rate": "None",
+   "TotalCost": 2120,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10595,8 +10595,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "66",
+   "TotalCost": 10,
+   "CatchRate": "66",
    "Commentaries": ""
  },
  {
@@ -10615,8 +10615,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 130,
-   "Total Cost": 140,
-   "Catch-Rate": "None",
+   "TotalCost": 140,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10635,8 +10635,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 300,
-   "Total Cost": 440,
-   "Catch-Rate": "None",
+   "TotalCost": 440,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10655,8 +10655,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 470,
-   "Total Cost": 910,
-   "Catch-Rate": "None",
+   "TotalCost": 910,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10675,8 +10675,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 700,
-   "Total Cost": 1610,
-   "Catch-Rate": "None",
+   "TotalCost": 1610,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10695,8 +10695,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 200,
-   "Total Cost": 200,
-   "Catch-Rate": "11",
+   "TotalCost": 200,
+   "CatchRate": "11",
    "Commentaries": ""
  },
  {
@@ -10715,8 +10715,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 880,
-   "Total Cost": 1080,
-   "Catch-Rate": "None",
+   "TotalCost": 1080,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10735,8 +10735,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 1300,
-   "Total Cost": 2380,
-   "Catch-Rate": "None",
+   "TotalCost": 2380,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10755,8 +10755,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 1850,
-   "Total Cost": 4230,
-   "Catch-Rate": "None",
+   "TotalCost": 4230,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10775,8 +10775,8 @@ var pokedex = [
    "Low Priority": "Yes",
    "Ability": "",
    "Cost": 2100,
-   "Total Cost": 6330,
-   "Catch-Rate": "None",
+   "TotalCost": 6330,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10795,8 +10795,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 10,
-   "Total Cost": 10,
-   "Catch-Rate": "90",
+   "TotalCost": 10,
+   "CatchRate": "90",
    "Commentaries": ""
  },
  {
@@ -10815,8 +10815,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 70,
-   "Total Cost": 80,
-   "Catch-Rate": "None",
+   "TotalCost": 80,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10835,8 +10835,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 180,
-   "Total Cost": 260,
-   "Catch-Rate": "None",
+   "TotalCost": 260,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10855,8 +10855,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 400,
-   "Total Cost": 660,
-   "Catch-Rate": "None",
+   "TotalCost": 660,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10875,8 +10875,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 800,
-   "Total Cost": 1460,
-   "Catch-Rate": "None",
+   "TotalCost": 1460,
+   "CatchRate": "None",
    "Commentaries": ""
  },
  {
@@ -10895,8 +10895,8 @@ var pokedex = [
    "Low Priority": "No",
    "Ability": "",
    "Cost": 1000,
-   "Total Cost": 2460,
-   "Catch-Rate": "None",
+   "TotalCost": 2460,
+   "CatchRate": "None",
    "Commentaries": ""
  }
 ]
