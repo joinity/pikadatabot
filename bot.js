@@ -9,7 +9,7 @@ client.on('ready', () => {
 
 client.on('message', msg => {
 	
-	if (msg.content.startsWith("!"){
+	if (msg.content.startsWith("!")){
 	var pkmn = msg.content.slice(1).split(/ +/);
 	pkmn = pkmn.toString().toLowerCase();
 	console.log(pkmn);
