@@ -21,8 +21,8 @@ client.on('message', msg => {
 					.setAuthor(pokemon[i].Name, "https://img.pokemondb.net/sprites/black-white/normal/"+ pkmn +".png" )
 					.setColor(0xFF0000)
 					.addField("Stats:", "Level: " + pokemon[i].Level)
-					.addField("\u200B","Attack: " + pokemon[i].Damage + "\r\n HP: " + pokemon[i].Health + "\r\n Defense: " + pokemon[i].Defense + "Range: " + pokemon[i].Range + "\r\n DPS: " + pokemon[i].DPS, true)
-					.addField("\u200B","Move Speed: " + pokemon[i].MoveSpeed + "Cost: " + pokemon[i].Cost+ "\r\n Total Cost: " + pokemon[i].TotalCost +"\r\n Catch Rate: " +  "Cost: " + pokemon[i].Cost+ "\r\n Total Cost: " + pokemon[i].TotalCost , true)
+					.addField("\u200B","Attack: " + pokemon[i].Damage + "\r\n HP: " + pokemon[i].Health + "\r\n Defense: " + pokemon[i].Defense + "\r\n Range: " + pokemon[i].Range + "\r\n DPS: " + pokemon[i].DPS, true)
+					.addField("\u200B","Move Speed: " + pokemon[i].MoveSpeed + "Cost: " + pokemon[i].Cost+ "\r\n Total Cost: " + pokemon[i].TotalCost +"\r\n Catch Rate: " +  "\r\n Cost: " + pokemon[i].Cost+ "\r\n Total Cost: " + pokemon[i].TotalCost , true)
 					.addField("Skill:", pokemon[i].Ability) 
 					.setThumbnail("https://img.pokemondb.net/sprites/black-white/anim/normal/"+ pkmn +".gif");
 					msg.author.send({embed});
