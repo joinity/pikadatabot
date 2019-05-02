@@ -26,7 +26,7 @@ client.on('message', msg => {
       				.setImage("https://img.pokemondb.net/sprites/black-white/normal/"+ pkmn +".png")
     				.setThumbnail("https://img.pokemondb.net/sprites/black-white/anim/normal/"+ pkmn +".gif");
 				msg.channel.send({embed}).then(sentMessage => {
-    sentMessage.delete(10000);;
+    sentMessage.delete(10000);
 
 			}
 		
