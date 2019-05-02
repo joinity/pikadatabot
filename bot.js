@@ -16,15 +16,23 @@ client.on('message', msg => {
 			
 			if(pkmn == pokemon[i].Name.toLowerCase()){
 				
-				var embed = new Discord.RichEmbed()
-				.setAuthor("Author", "https://lh3.googleusercontent.com/rA0lKRGI_-bP-Jj4nkVc5lm6WJfO3nYlAz089otvQnLeevIoao1CTvaU0l0dqnnWIvLZTSOTaEwj6W04IZSRHQz3NYWiePtJnW3bANh54aI=w120")
-      .setColor(0xFF0000)
-      .addField("<:stats:545991150486421514> Stats", "⧫ ATK: " + "variable" + "\r\n ⧫ HP: " + "variable" + "\r\n ⧫ DEF: " + "variable", true)
-      .addField("\u200B", "⧫ CRIT RATE: " + "variable" + "\r\n ⧫ CRIT DMG: " + "variable" + "\r\n ⧫ AGI: " + "variable", true)
-      .addField("<:skills:545991578355761152> Skills", "Skill descriptions")
-      .setImage("https://lh3.googleusercontent.com/rA0lKRGI_-bP-Jj4nkVc5lm6WJfO3nYlAz089otvQnLeevIoao1CTvaU0l0dqnnWIvLZTSOTaEwj6W04IZSRHQz3NYWiePtJnW3bANh54aI=w120", 2, 2)
-      .setThumbnail("https://lh3.googleusercontent.com/rA0lKRGI_-bP-Jj4nkVc5lm6WJfO3nYlAz089otvQnLeevIoao1CTvaU0l0dqnnWIvLZTSOTaEwj6W04IZSRHQz3NYWiePtJnW3bANh54aI=w120")
-      .setFooter("Footer", "https://lh3.googleusercontent.com/rA0lKRGI_-bP-Jj4nkVc5lm6WJfO3nYlAz089otvQnLeevIoao1CTvaU0l0dqnnWIvLZTSOTaEwj6W04IZSRHQz3NYWiePtJnW3bANh54aI=w120");
+const exampleEmbed = new Discord.RichEmbed()
+	.setColor('#0099ff')
+	.setTitle('Some title')
+	.setURL('https://discord.js.org/')
+	.setAuthor('Some name', 'https://i.imgur.com/wSTFkRM.png', 'https://discord.js.org')
+	.setDescription('Some description here')
+	.setThumbnail('https://i.imgur.com/wSTFkRM.png')
+	.addField('Regular field title', 'Some value here')
+	.addBlankField()
+	.addField('Inline field title', 'Some value here', true)
+	.addField('Inline field title', 'Some value here', true)
+	.addField('Inline field title', 'Some value here', true)
+	.setImage('https://i.imgur.com/wSTFkRM.png')
+	.setTimestamp()
+	.setFooter('Some footer text here', 'https://i.imgur.com/wSTFkRM.png');
+
+msg.channel.send(exampleEmbed);
 				/*
      				.setAuthor(pokemon[i].Name)
       				.setColor(0xFF0000)
