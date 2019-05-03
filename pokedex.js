@@ -1,4 +1,4 @@
-[
+var pokedex = [
  {
    "Name": "Abra",
    "Level": 5,
@@ -10900,3 +10900,4 @@
    "Commentaries": ""
  }
 ]
+module.exports = pokedex;
