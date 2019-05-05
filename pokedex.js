@@ -1,5 +1,4 @@
 var pokedex = [
-[
  {
    "Name": "Abra",
    "Level": 5,
