@@ -48,7 +48,7 @@ client.on('message', msg => {
 					.addField("\u200B","Move Speed: " + pokemon[i].MoveSpeed + "\r\n Cost: " + pokemon[i].Cost+ "\r\n Total Cost: " + pokemon[i].TotalCost +"\r\n Catch Rate: " + pokemon[i].CatchRate , true)
 					.addField("Skill:", pokemon[i].Ability) 
 					.setThumbnail("https://img.pokemondb.net/sprites/black-white/anim/normal/"+ pkmn +".gif");
-					msg.author.send({embed});
+					msg.channel.send({embed});
 
 				}
 
