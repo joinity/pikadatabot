@@ -421,7 +421,7 @@
  {
    "ID": 20,
    "Name": "Mega-Aerodactyl",
-   "SpriteName": "aerodacyl-mega",
+   "SpriteName": "aerodactyl-mega",
    "Level": 100,
    "Type": "Rock - Flying",
    "Base": "Aerodactyl",
