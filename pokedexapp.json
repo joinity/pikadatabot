@@ -1807,7 +1807,7 @@
  {
    "ID": 83,
    "Name": "Mega-Charizard",
-   "SpriteName": "charizard-mega",
+   "SpriteName": "charizard-mega-x",
    "Level": 100,
    "Type": "Fire - Dragon",
    "Base": "Charmander",
