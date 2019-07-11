@@ -1,5 +1,5 @@
 {
-  "pokemon": [
+  "pokemon":[
  {
    "ID": 1,
    "Name": "Abra",
@@ -1807,7 +1807,7 @@
  {
    "ID": 83,
    "Name": "Mega-Charizard",
-   "SpriteName": "charizard-mega-x",
+   "SpriteName": "charizard-mega",
    "Level": 100,
    "Type": "Fire - Dragon",
    "Base": "Charmander",
@@ -3170,8 +3170,8 @@
  },
  {
    "ID": 145,
-   "Name": "Leafon",
-   "SpriteName": "Leafon",
+   "Name": "Leafeon",
+   "SpriteName": "Leafeon",
    "Level": 20,
    "Type": "Grass",
    "Base": "Eevee",
@@ -3192,8 +3192,8 @@
  },
  {
    "ID": 146,
-   "Name": "Leafon",
-   "SpriteName": "Leafon",
+   "Name": "Leafeon",
+   "SpriteName": "Leafeon",
    "Level": 40,
    "Type": "Grass",
    "Base": "Eevee",
@@ -3214,8 +3214,8 @@
  },
  {
    "ID": 147,
-   "Name": "Leafon",
-   "SpriteName": "Leafon",
+   "Name": "Leafeon",
+   "SpriteName": "Leafeon",
    "Level": 70,
    "Type": "Grass",
    "Base": "Eevee",
@@ -3236,8 +3236,8 @@
  },
  {
    "ID": 148,
-   "Name": "Leafon",
-   "SpriteName": "Leafon",
+   "Name": "Leafeon",
+   "SpriteName": "Leafeon",
    "Level": 100,
    "Type": "Grass",
    "Base": "Eevee",
@@ -4733,7 +4733,7 @@
  {
    "ID": 216,
    "Name": "Giratina",
-   "SpriteName": "Giratina",
+   "SpriteName": "giratina-altered",
    "Level": 25,
    "Type": "Ghost - Dragon",
    "Base": "Giratina",
@@ -4755,7 +4755,7 @@
  {
    "ID": 217,
    "Name": "Giratina",
-   "SpriteName": "Giratina",
+   "SpriteName": "giratina-altered",
    "Level": 50,
    "Type": "Ghost - Dragon",
    "Base": "Giratina",
@@ -4777,7 +4777,7 @@
  {
    "ID": 218,
    "Name": "Giratina",
-   "SpriteName": "Giratina",
+   "SpriteName": "giratina-altered",
    "Level": 75,
    "Type": "Ghost - Dragon",
    "Base": "Giratina",
@@ -4799,7 +4799,7 @@
  {
    "ID": 219,
    "Name": "Giratina",
-   "SpriteName": "Giratina",
+   "SpriteName": "giratina-altered",
    "Level": 100,
    "Type": "Ghost - Dragon",
    "Base": "Giratina",
@@ -6470,8 +6470,8 @@
  },
  {
    "ID": 295,
-   "Name": "Magmotar",
-   "SpriteName": "Magmotar",
+   "Name": "Magmortar",
+   "SpriteName": "Magmortar",
    "Level": 100,
    "Type": "Fire",
    "Base": "Magby",
@@ -7834,8 +7834,8 @@
  },
  {
    "ID": 357,
-   "Name": "Bellesom",
-   "SpriteName": "Bellesom",
+   "Name": "Bellossom",
+   "SpriteName": "Bellossom",
    "Level": 40,
    "Type": "Grass",
    "Base": "Oddish",
@@ -7878,8 +7878,8 @@
  },
  {
    "ID": 359,
-   "Name": "Bellesom",
-   "SpriteName": "Bellesom",
+   "Name": "Bellossom",
+   "SpriteName": "Bellossom",
    "Level": 70,
    "Type": "Grass",
    "Base": "Oddish",
@@ -7922,8 +7922,8 @@
  },
  {
    "ID": 361,
-   "Name": "Bellesom",
-   "SpriteName": "Bellesom",
+   "Name": "Bellossom",
+   "SpriteName": "Bellossom",
    "Level": 100,
    "Type": "Grass\n",
    "Base": "Oddish",
@@ -9352,8 +9352,8 @@
  },
  {
    "ID": 426,
-   "Name": "Rhyhornior",
-   "SpriteName": "Rhyhornior",
+   "Name": "Rhyperior",
+   "SpriteName": "Rhyperior",
    "Level": 100,
    "Type": "Rock - Ground",
    "Base": "Rhyhorn",
@@ -10320,8 +10320,8 @@
  },
  {
    "ID": 470,
-   "Name": "Snubull",
-   "SpriteName": "Snubull",
+   "Name": "Snubbull",
+   "SpriteName": "Snubbull",
    "Level": 5,
    "Type": "Fairy",
    "Base": "Snubull",
@@ -11816,8 +11816,8 @@
  },
  {
    "ID": 538,
-   "Name": "Ninetails",
-   "SpriteName": "Ninetails",
+   "Name": "Ninetales",
+   "SpriteName": "Ninetales",
    "Level": 40,
    "Type": "Fire",
    "Base": "Vulpix",
@@ -11838,8 +11838,8 @@
  },
  {
    "ID": 539,
-   "Name": "Ninetails",
-   "SpriteName": "Ninetails",
+   "Name": "Ninetales",
+   "SpriteName": "Ninetales",
    "Level": 70,
    "Type": "Fire",
    "Base": "Vulpix",
@@ -11860,8 +11860,8 @@
  },
  {
    "ID": 540,
-   "Name": "Ninetails",
-   "SpriteName": "Ninetails",
+   "Name": "Ninetales",
+   "SpriteName": "Ninetales",
    "Level": 100,
    "Type": "Fire",
    "Base": "Vulpix",
@@ -12366,8 +12366,8 @@
  },
  {
    "ID": 563,
-   "Name": "Diglet",
-   "SpriteName": "Diglet",
+   "Name": "Diglett",
+   "SpriteName": "Diglett",
    "Level": 5,
    "Type": "Ground",
    "Base": "Diglet",
@@ -12388,8 +12388,8 @@
  },
  {
    "ID": 564,
-   "Name": "Diglet",
-   "SpriteName": "Diglet",
+   "Name": "Diglett",
+   "SpriteName": "Diglett",
    "Level": 10,
    "Type": "Ground",
    "Base": "Diglet",
@@ -12496,5 +12496,4 @@
    "CatchRate": null,
    "Comments": ""
  }
-] 
-}
+]}
