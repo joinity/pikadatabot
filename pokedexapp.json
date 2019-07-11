@@ -4711,7 +4711,7 @@
  {
    "ID": 215,
    "Name": "Giratina",
-   "SpriteName": "Giratina",
+   "SpriteName": "giratina-altered",
    "Level": 5,
    "Type": "Ghost - Dragon",
    "Base": "Giratina",
@@ -7461,7 +7461,7 @@
  {
    "ID": 340,
    "Name": "Nidoran",
-   "SpriteName": "Nidoran",
+   "SpriteName": "Nidoranf",
    "Level": 5,
    "Type": "Poison",
    "Base": "Nidoran",
@@ -7483,7 +7483,7 @@
  {
    "ID": 341,
    "Name": "Nidoran",
-   "SpriteName": "Nidoran",
+   "SpriteName": "Nidoranf",
    "Level": 10,
    "Type": "Poison",
    "Base": "Nidoran",
