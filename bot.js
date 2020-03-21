@@ -18,6 +18,7 @@ client.on('message', msg => {
 					msg.author.send({embed});
 
 	}
+	msg.author.send("Sorry I was replaced by my Master.. If you want to know things about a specific Pokemon in the game check out https://www.pkmnlegends.com/pokedex.php");
 	
 });
 	
