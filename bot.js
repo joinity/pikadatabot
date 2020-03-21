@@ -10,49 +10,13 @@ client.on('ready', () => {
 client.on('message', msg => {
 	
 	if (msg.content.startsWith("!")){
-	var pkmn = msg.content.slice(1).split(/ +/);
-	pkmn = pkmn.toString().toLowerCase();
-	console.log(pkmn);
-		for(var i=0;i<pokemon.length;i++){
-
-				if(pkmn == pokemon[i].Name.toLowerCase()){
-					
 					const embed = new Discord.RichEmbed()
-					.setAuthor(pokemon[i].Name, "https://img.pokemondb.net/sprites/black-white/normal/"+ pkmn +".png" )
+					.setAuthor("PikaDataBot", "https://img.pokemondb.net/sprites/black-white/normal/"+ pikachu +".png" )
 					.setColor(0xFF0000)
-					.addField("Stats:", "Level: " + pokemon[i].Level + "\r\n Type: " + pokemon[i].Type)
-					.addField("\u200B","Attack: " + pokemon[i].Damage + "\r\n HP: " + pokemon[i].Health + "\r\n Defense: " + pokemon[i].Defense + "\r\n Range: " + pokemon[i].Range + "\r\n AttackSpeed: " + 1/pokemon[i].AttackSpeed, true)
-					.addField("\u200B","Move Speed: " + pokemon[i].MoveSpeed + "\r\n Cost: " + pokemon[i].Cost+ "\r\n Total Cost: " + pokemon[i].TotalCost +"\r\n Catch Rate: " + pokemon[i].CatchRate , true)
-					.addField("Skill:", pokemon[i].Ability) 
-					.setThumbnail("https://img.pokemondb.net/sprites/black-white/anim/normal/"+ pkmn +".gif");
-					msg.author.send({embed});
+					.addField("Sorry I was replaced by my Master.. If you want to know things about a specific Pokemon in the game check out https://www.pkmnlegends.com/pokedex.php") 
+					.setThumbnail("https://img.pokemondb.net/sprites/black-white/anim/normal/"+ pikachu +".gif");
+					msg.author.send("embed");
 
-				}
-
-		}
-	}
-	else if (msg.content.startsWith("?")){
-	var pkmn = msg.content.slice(1).split(/ +/);
-	pkmn = pkmn.toString().toLowerCase();
-	console.log(pkmn);
-		for(var i=0;i<pokemon.length;i++){
-
-				if(pkmn == pokemon[i].Name.toLowerCase()){
-
-
-					const embed = new Discord.RichEmbed()
-					.setAuthor(pokemon[i].Name, "https://img.pokemondb.net/sprites/black-white/normal/"+ pkmn +".png" )
-					.setColor(0xFF0000)
-					.addField("Stats:", "Level: " + pokemon[i].Level + "\r\n Type: " + pokemon[i].Type)
-					.addField("\u200B","Attack: " + pokemon[i].Damage + "\r\n HP: " + pokemon[i].Health + "\r\n Defense: " + pokemon[i].Defense + "\r\n Range: " + pokemon[i].Range + "\r\n AttackSpeed: " + 1/pokemon[i].AttackSpeed, true)
-					.addField("\u200B","Move Speed: " + pokemon[i].MoveSpeed + "\r\n Cost: " + pokemon[i].Cost+ "\r\n Total Cost: " + pokemon[i].TotalCost +"\r\n Catch Rate: " + pokemon[i].CatchRate , true)
-					.addField("Skill:", pokemon[i].Ability) 
-					.setThumbnail("https://img.pokemondb.net/sprites/black-white/anim/normal/"+ pkmn +".gif");
-					msg.channel.send({embed});
-
-				}
-
-		}
 	}
 	
 });
