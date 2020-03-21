@@ -10,15 +10,10 @@ client.on('ready', () => {
 client.on('message', msg => {
 	
 	if (msg.content.startsWith("!")){
-					const embed = new Discord.RichEmbed()
-					.setAuthor("PikaDataBot", "https://img.pokemondb.net/sprites/black-white/normal/"+ pikachu +".png" )
-					.setColor(0xFF0000)
-					.addField("Sorry I was replaced by my Master.. If you want to know things about a specific Pokemon in the game check out https://www.pkmnlegends.com/pokedex.php") 
-					.setThumbnail("https://img.pokemondb.net/sprites/black-white/anim/normal/"+ pikachu +".gif");
-					msg.author.send({embed});
+msg.author.send("Sorry I was replaced by my Master.. If you want to know things about a specific Pokemon in the game check out https://www.pkmnlegends.com/pokedex.php");
 
 	}
-	msg.author.send("Sorry I was replaced by my Master.. If you want to know things about a specific Pokemon in the game check out https://www.pkmnlegends.com/pokedex.php");
+	
 	
 });
 	
